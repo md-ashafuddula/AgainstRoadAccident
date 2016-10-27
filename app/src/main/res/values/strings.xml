@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">নিরাপদ সড়ক গড়ি</string>
+    <string name="app_about">অ্যাপ সম্পর্কে জানুন</string>
+    <string name="action_settings">Settings</string>
+    <string name="CHKDefaultEmer">সংবেদনশীলতা</string>
+    <string name="About">অ্যাপ সম্পর্কে জানুন</string>
+    <string name="CHKDefaultEmerOff">সংবেদনশীলতা বন্ধ করুন</string>
+     <string name="CHKDefaultEmerOffDin"> বন্ধ করুন</string>
+      <string name="CHKDefaultEmerOnDin"> চালু করুন</string>
+    <string name="title_activity_law">Law</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_page">ShowPage</string>
+    <string name="BackEnd">আর পাতা নেই, সামনে যান</string>
+    <string name="GoEnd">আর পাতা নেই , পেছনে যান</string>
+    <string name="For23Driver1">যানবাহনে চলন্তাবস্থায় চালকের করণীয় :\n\n\n
+১. সর্বদা সিটবেল্ট ব্যবহার করুন এবং প্রয়োজনে এয়ারব্যাগ ব্যবহার করা ।\n\n
+২. মোটরযান আইন মেনে চলা । \n\n
+৩. রাস্তার বামদিক ঘেঁষে গাড়ি চালনা।\n\n
+৪. ভিআইপি, অ্যাম্বুলেন্স, ফায়ার-পুলিশের গাড়িকে প্রাধান্য দেওয়া। \n\n
+৫. সতর্কাবস্থায় এবং শক্ত করে স্টিয়ারিং ধরে রাখা।\n\n
+৬. অন্য গাড়ি থেকে নিজের গাড়ির দূরত্ব বজায় রাখা। \n\n
+৭. আচমকা ব্রেক না করা।\n\n
+৮. লেন পরিবর্তনের জন্য ইন্ডিকেটর ব্যবহার করা। \n\n
+৯. গাড়িতে ত্রুটি দেখা দিলে সারিয়ে নেওয়া।\n\n
+১০. দুর্যোগপূর্ণ আবহাওয়ায় হেডলাইট জ্বালিয়ে চলা।\n\n
+১১. নির্ধারিত গতির চেয়ে অতিরিক্ত গতিতে গাড়ি না চালানো। \n\n
+১২. অতিরিক্ত যাত্রী/মালামাল বহন না করা। \n\n
+১৩. শারীরিক অসুস্থতা নিয়ে গাড়ি না চালানো।\n\n
+১৪. দৃষ্টিশক্তির ব্যত্যয় ঘটলে বিশ্রাম নিয়ে নেওয়া। \n\n
+১৫. মাত্রাতিরিক্ত ওষুধ সেবন না করা। \n\n
+১৬. যত্রতত্র গাড়ি থামিয়ে যাত্রী উঠানামা না করা। \n\n
+১৭. প্রতি ১০ সেকেন্ডে ছয়বার লুকিং গ্লাসে নজর রাখা ।\n\n</string>
+    <string name="For23Driver2">১৮. ধূমপান বা মাদকদ্রব্য সেবন না করা।\n\n
+১৯. গাড়িতে মোবাইল ফোন ব্যবহার না করা।\n\n
+২০. গতিসীমা জোন মেনে চলা ।\n\n
+২১. জনবহুল এলাকা এবং বিভিন্ন রাস্তার সংযোগস্থলে বিশেষ সতর্কতা অবলম্বন করা ।\n\n
+২২. প্রত্যেকটি যানবাহন যেন নিজেদের ভেতর নিরাপদ দূরত্ব বজায় থাকে সেই বিষয়টি লক্ষ্য রাখা ।\n\n</string>
+    <string name="For24Owner">মালিক এর দায়িত্ব ও কর্তব্য :\n\n\n
+১. ত্রুটিযুক্ত গাড়ী যাতে রাস্তায় চলতে না পারে তা নিশ্চিত করতে হবে।  \n\n
+২. চালকের বৈধ লাইসেন্স ও দক্ষ নিশ্চিত করতে হবে। \n\n
+৩. চালকদের মাসিক কাউন্সিলিং করাতে হবে। \n\n
+৪. চালক শারীরিক ভাবে সুস্থ আছে কিনা যাচাই করতে হবে।\n\n
+৫. কোন চালককে অতিরিক্ত দায়িত্ব দেওয়া যাবে না।\n\n
+৬. ড্রাইভিং পেশার উত্কর্ষহীনতা  বাড়াতে হবে।পর্যাপ্ত সুবিধা দিতে হবে।\n\n
+৭. চালকদের জন্য প্রয়জনীয় ট্রেনিং এর ব্যবস্থা করতে হবে।\n\n
+৮. ঝুঁকিপূর্ণ এবং ধীরগতির যানবাহনের ব্যাপারে বিশেষ সতর্কতা অবলম্বন করতে হবে ।\n\n
+৯. অতিরিক্ত ভাড়া আদায় থেকে বিরত থাকতে হবে ।\n\n</string>
+    <string name="PassengerText31">যাত্রী সাবধানতা: \n\n\n
+১. চলন্ত গাড়ীতে উঠার চেষ্টা করবেন না।\n\n
+২. চলন্ত গাড়ী হতে নামবেন না।\n\n
+৩. চলন্ত গাড়ির বাহিরে শরীরের অংশ বের করবেন না। \n\n
+৪. অনুমোদনবিহীন কোন বাসস্ট্যাণ্ডে বা বাসস্ট্যাণ্ড ছাড়া কোন স্থান থেকে বাসে ওঠা বা নামা থেকে বিরত থাকুন ।\n\n
+৫. নির্ধারিত স্থান হতে গাড়ীতে উঠুন, পথিমধ্যে হতে নয়।\n\n
+৬. আপনার গাড়ীর ড্রাইভারকে নির্ধারিত সীমার চাইতে বেশী গতিতে গাড়ী চালানো থেকে বিরত রাখুন।\n\n
+৭. কার কিংবা ট্যাক্সি তে চড়লে সিট বেল্ট বাঁধুন।\n\n
+৮. মোটরসাইকেল এ চড়লে হেলমেট ব্যবহার করুন।\n\n
+৯. ড্রাইভার ফোনে কথা বললে নিষেধ করুন। \n\n
+১০. বাসস্ট্যাণ্ডে লাইন মেনে চলুন ।\n\n
+১১. যাত্রাসময়ের অনেক পূর্বেই বাসস্ট্যাণ্ডের উদ্দেশ্যে রওনা দিন ।\n\n
+১২. বাসের ভেতর উচ্চশব্দ করা থেকে বিরত থাকুন ।\n\n
+১৩. বাসের ভেতর দাঁড়ানো অবস্থায় সর্বদা বাসের হাতল ধরে থাকুন বা অন্য কোন অবলম্বনের সহায়তা নিন ।\n\n</string>
+    <string name="footPassers">১. চলাচলের সময় ফুটপাত ব্যবহার করুন।\n\n
+২. সিগন্যাল ছাড়া অবস্থায় কখনই রাস্তা পার হবেন না।\n\n
+৩. কোন থেমে থাকা গাড়ীর সামনে দিয়ে রাস্তা পার হতে হলে, ড্রাইভারের দৃষ্টি আকর্ষণ করুন, অতঃপর রাস্তা পার হন।\n\n
+৪. রাস্তা পারাপারের সময় আশেপাশের ফুট ওভারব্রীজ,আণ্ডারপাস এবং জেব্রা ক্রসিং ব্যবহার করুন ।\n\n
+৫. রাস্তা পারাপারের সময় ফোনে কথা না বলা ।\n\n
+৬. রাস্তায় হেডফোন কানে না দেওয়া।\n\n
+৭. কোন স্থানে জেব্রা ক্রসিং না থাকলে ,রাস্তা ফাঁকা না হলে রাস্তা পার হওয়ার চেষ্টা করবেন না।\n\n
+৮. রাস্তা পারাপারের সময় দুদিকেই লক্ষ্য রাখুন ।\n\n
+৯. সর্বোপরি নিজে সচেতন হোন, অন্যকে সচেতন করুন। \n\n</string>
+    <string name="GPublic">জনসাধারণের করনীয়ঃ\n\n\n ১. রাস্তায় পশু বেধে রাখবেন না। \n\n
+২. যেখানে সেখনে গাড়ী পারকিং করবেন না। \n\n
+৩. ট্রাফিক আইন জানুন এবং মেনে চলুন। \n\n</string>
+    <string name="page51a">১. গাড়ি চালানোর সময় ট্রাফিক পুলিশের নির্দেশনা না মানা ।\n\n
+২. বেপরোয়া গতিতে গাড়ি চালানো ।\n\n
+৩. গাড়ির ফিটনেসসংক্রান্ত কাগজপত্র নবায়ন না করা ।\n\n
+৪. ড্রাইভিং লাইসেন্স নবায়ন না করা ।\n\n
+৫. নির্ধারিত রুট পারমিটের রাস্তা ব্যবহার না করা ।\n\n
+৬. নির্ধারিত গতিসীমা অতিক্রম করা ।\n\n
+৭. ওভারটেক করা ।\n\n
+৮. রাতে হেডলাইট না জ্বালিয়ে গাড়ি চালানো ।\n\n
+৯. সিটবেল্ট না বাঁধা ।\n\n
+১০. মোটরবাইকে দুজনের বেশি যাত্রী বহন করা ।\n\n
+১১. হেলমেট না পরা ।\n\n
+১২. সঠিক জায়গায় গাড়ি পার্ক না করা ।\n\n
+১২. গাড়িতে নাম্বার প্লেট না থাকা  ।\n\n
+১৩. মদপান বা নেশাগ্রস্ত অবস্থায় গাড়ি চালানো ।\n\n
+আঠারো বছরের নিচে কোনো ব্যক্তি সর্বসাধারণের জন্য ব্যবহার্য স্থানে মোটরযান চালাতে পারবেন না।\n\n
+১৪. এক ব্যক্তির ড্রাইভিং লাইসেন্স অন্য ব্যক্তি ব্যবহার করা ।\n\n
+১৫. বাস, ট্রাক বা অন্য গণপরিবহন কিংবা পণ্যবাহী যানে কন্ডাক্টর হিসেবে কাজ করতে হলে অবশ্যই লাইসেন্স না থাকা । \n\n</string>
+    <string name="page51b">১৬. আঠারো বছরের কম বয়সী কেউ কন্ডাক্টরের কাজ করলে ।\n\n
+১৭. সর্বসাধারণের ব্যবহার্য স্থানে রেজিস্ট্রেশন ছাড়া কোনো মোটরযান চালানো ।\n\n
+১৮. গাড়ির বাম্পার কিংবা ছাদে আরোহণ করা । \n\n
+১৯. কোনো গাড়িতে হাইড্রোলিক হর্ন ব্যবহার করা ।\n\n
+সুত্র : যায়যায়দিন পত্রিকা ।\n\n</string>
+    <string name="page52a">আইন ভাঙলে জরিমানা:\n\n\n
+
+আইন লঙ্ঘনের দায়ে গাড়ির একটি কিংবা দুটি কাগজ জব্দ করার পর আইন ভঙ্গকারীকে একটি রসিদ দেয়া হয়।কোথায়, কী অপরাধে আপনাকে জরিমানা করা হয়েছে, কে জরিমানা করলেন, কত তারিখে জরিমানা করা হয়েছে, কত তারিখের মধ্যে আপনাকে হাজিরা দিতে হবে_ সবকিছুই রসিদে উল্লেখ করা থাকে। তবে জেলা শহর ও বিভাগগুলোয় ট্রাফিক আইন ভঙ্গের জন্য নির্ধারিত জরিমানার টাকার পরিমাণও বিভিন্ন ধরনের হয়।</string>
+    <string name="page52b">বিভিন্ন অপরাধে জরিমানার পরিমাণ:\n\n\n
+*১৩৭ ধারা অনুসারে যে কোনো অপরাধের শাস্তি প্রদানে ২০০ টাকা জরিমানা হতে পারে।\n\n
+*১৩৯ ধারা অনুসারে নিষিদ্ধ হর্ন কিংবা শব্দ সৃষ্টিকারী যন্ত্র লাগালে ১০০ টাকা ।\n\n
+*১৪০ ধারা অনুসারে আদেশ অমান্য, বাধা সৃষ্টি ও তথ্য প্রদানে অস্বীকার করলে ৫০০ টাকা ।\n\n
+*১৪২ ধারা অনুসারে নির্ধারিত গতির চেয়ে দ্রুত গতিতে গাড়ি চালালে ৩০০ টাকা ।\n\n
+*১৪৬ ধারা অনুসারে দুর্ঘটনাসংক্রান্ত অপরাধে ৫০০ থেকে ১০০০ টাকা । \n\n
+*১৪৯ ধারায় নিরাপত্তাহীন অবস্থায় গাড়ি ব্যবহার করলে ৩০০ টাকা ।\n\n
+*১৫০ ধারা অনুসারে ধোঁয়া বের হলে ২০০ টাকা ।\n\n
+*১৫১ ধারা অনুসারে আইনের সঙ্গে সঙ্গতিহীন অবস্থায় গাড়ি বিক্রি বা গাড়ির মালিকানা পরিবর্তন করলে যথাক্রমে ৫০০০ ও ১২৫০ টাকা ।\n\n
+*১৫২ ধারা অনুসারে রেজিস্ট্রেশন, ফিটনেস সার্টিফিকেট অথবা পারমিট ছাড়া মোটরগাড়ি ব্যবহার করলে ৭০০ টাকা ।\n\n
+*১৫৪ ধারা অনুসারে অনুমোদিত ওজন অতিক্রম করে গাড়ি চালালে ৫০০ থেকে ১০০০ টাকা ।\n\n
+*১৫৫ ধারা অনুসারে বীমা ছাড়া বা মেয়াদ উত্তীর্ণের জন্য ৫০০ থেকে ২০০০ টাকা ।\n\n
+*১৫৬ ধারা অনুসারে ড্রাইভিং লাইসেন্স ছাড়া গাড়ি চালালে ৫০০ থেকে ১০০০ টাকা ।\n\n
+*১৫৭ ধারা অনুসারে প্রকাশ্য সড়কে অথবা প্রকাশ্য স্থানে প্রতিবন্ধকতা সৃষ্টি করলে ২৫০ থেকে ৫০০ টাকা জরিমানা গুনতে হবে।\n\n\n
+সুত্র : যায়যায়দিন পত্রিকা ।\n\n</string>
+    <string name="page53">(।) মোটরসাইকেলের প্রয়োজনীয় কাগজপত্রগুলো হলো :\n\n
+১. রেজিস্ট্রেশন সার্টিফিকেট \n\n
+২. ইন্সুরেন্স সার্টিফিকেট ।\n\n
+৩. ট্যাক্স টোকেন ।\n\n
+৪. ড্রাইভিং লাইসেন্স ।\n\n
+(।।) মাইক্রো বাস/কার বা বাস ভাড়ায় চললে উলি্লখিত কাগজগুলোর বাইরে প্রয়োজন হবে ফিটনেস সার্টিফিকেট ও রুট পারমিট।\n\n
+ভাড়ায় না চললে রুট পারমিটের প্রয়োজন পড়বে না।\n\n</string>
+    <string name="title_activity_by_passers">ByPassers</string>
+    <string name="title_activity_driver_owner">DriverOwner</string>
+    <string name="title_activity_anim_light_signal">AnimLightSignal</string>
+    <string name="redST">থামুন ।</string>
+    <string name="yellowST">প্রস্তুত হোন ।</string>
+    <string name="greenST">এবার যান ।</string>
+    <string name="title_activity_emergency_complain">EmergencyComplain</string>
+    <string name="FirstAidST">দুর্ঘটনা ঘটলে করণীয়ঃ\n\n\n
+১. নিজেকে পরীক্ষা করুন কতটুকু আহত হয়েছেন।\n\n
+২. যদি সামান্য আঘাত হন ,তাহলে এমারজেন্সি নম্বরে ফোন করুন কিংবা অন্য কারও সাহায্য নিন।\n\n
+৩. খুব বেশি আঘাত না পেলে চলাচল করতে পারলে অন্য যাত্রীদের খেয়াল করুন তাদের সাহায্য করুন এবং এমারজেন্সি সার্ভিসের জন্য যোগাযোগ করুন।\n\n
+৪. পুলিশকে ফোন করুন। \n\n</string>
+    <string name="title_activity_passers_crossing_road">PassersCrossingRoad</string>
+    <string name="crossman">৩. রাস্তা পারাপার :\n\n
+প্রথমে বামে তাকান এরপর ডানে তাকান এবং এরপর এবার বামে তাকান , রাস্তা নিরাপদ হলে নিরাপদে রাস্তা পার হোন ।\n\n</string>
+    <string name="footpathuse">১. ফুটপাথ ব্যাবহার :\n\n
+রাস্তা দিয়ে চলাচলের সময় সর্বদা ফুটপাথ ব্যাবহার করুন ।\n\n</string>
+    <string name="bridge">৪. ফুট-ওভার ব্রিজ ব্যাবহার :\n\n
+ঘন যানবাহন যুক্ত রাস্তা পারাপারের সময় জেব্রা ক্রসিং না থাকলে নিকটস্থ ফুট ওভার ব্রিজ ব্যাবহার করে নিরাপদে রাস্তা পার হোন ।\n\n</string>
+    <string name="zebrause">২. জেব্রা ক্রসিং :\n\n
+রাস্তা পারাপারে জেব্রা ক্রসিং থাকলে তা ব্যাবহার করুন ।\n\n</string>
+    <string name="title_activity_complain_box">ComplainBox</string>
+    <string name="title_activity_brt">BRTA</string>
+    <string name="netConn">অনুগ্রহ করে ইন্টেরনেট যোগাযোগ চালু করুন </string>
+    <string name="Load">লোড হচ্ছে ...অনুগ্রহ করে অপেক্ষা করুন</string>
+    <string name="backTitle">সতর্ক বার্তা</string>
+    <string name="backMessage">আপনি কি অ্যাপ্লিকেশন টি ত্যাগ করতে চান ?</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="title_activity_road_sign">RoadSign</string>
+    <string name="sna">থামুন</string>
+    <string name="snaaaaa">জাংশনে ব্যবহৃত হয়</string>
+    <string name="snb">রাস্তাদিন</string>
+    <string name="snc">প্রধান সাইন</string>
+    <string name="sncc">চলাচলের চিহ্ন</string>
+    <string name="snd">মোটরযান চলাচল/প্রবেশ নিষেধ</string>
+    <string name="sne">ট্রাক চলাচল/প্রবেশ নিষেধ </string>
+    <string name="snf">ঠেলাগাড়ি চলাচল নিষেধ</string>
+    <string name="sng">পশু বাহিত যান চলাচল নিষেধ</string>
+    <string name="snh">পথচারী চলাচল নিষেধ</string>
+    <string name="sni">রিকশা চলাচল নিষেধ</string>
+    <string name="snj">সাইকেল চলাচল নিষেধ</string>
+    <string name="snjj">বাম অথবা ডানপাশ দিয়ে চলুন</string>
+    <string name="snk">ট্রাক্টর অথবা ধীরগতির যান চলাচল নিষেধ</string>
+    <string name="snl">বিস্ফোরক দ্রব্যবাহী মোটরযান চলাচল নিষেধ</string>
+    <string name="snm">প্রদর্শিত মাপের বেশি দৈরঘের মোটরযান চলাচল নিষেধ</string>
+    <string name="snrrrr">পথচারী পারাপার</string>
+    <string name="sns">থামানো নিষেধ</string>
+    <string name="snuuuu">জাতীয় মহাসড়ক, দিকনির্দেশক সাইন (১)</string>
+    <string name="snvvvv">জাতীয় মহাসড়ক, দিকনির্দেশক সাইন (২)</string>
+    <string name="snwwww">সাধারণ সড়ক, দিকনির্দেশক সাইন</string>
+    <string name="snz">সর্বোচ্চ গতিসীমা </string>
+    <string name="snaa">পূর্বের সর্বোচ্চ গতিসীমার বাধ নিষেধ শেষ এবং জাতীয় গতিসীমা শুরু</string>
+    <string name="snbb">সাময়িক থামার চিহ্ন</string>
+    <string name="sndd">গতিসীমা ব্যতীত অন্যান্য বাধানিষেধ শেষ</string>
+    <string name="snee">শুধুমাত্র সামনে চলুন</string>
+    <string name="snff">শুধুমাত্র বামদিকে চলাচল</string>
+    <string name="sngg">বামপাশ দিয়ে চলুন</string>
+    <string name="snhh">সামনে এগিয়ে বামে মোড় নিন</string>
+    <string name="snii">ছোট গোলচক্কর</string>
+    <string name="snkk">একদিকে চলাচল</string>
+    <string name="snll">একমুখী চলার রাস্তা</string>
+    <string name="snmm">শুধুমাত্র রিক্সা চলাচলের রাস্তা</string>
+    <string name="snn">প্রদর্শিত মাপের বেশি উচ্চতার মোটরযান চলাচল/প্রবেশ নিষেধ</string>
+    <string name="sno">প্রদর্শিত মাপের বেশি প্রশস্ত মোটরযান চলাচল/প্রবেশ নিষেধ</string>
+    <string name="snp">প্রদর্শিত ওজনের বেশি বোঝাইকৃত মোটরযান চলাচল/প্রবেশ নিষেধ</string>
+    <string name="snq">প্রদর্শিত ওজনের বেশি এক্সেল ওজনের মোটরযান চলাচল/প্রবেশ নিষেধ</string>
+    <string name="snr">পারকিং নিষেধ</string>
+    <string name="snt">ওভারটেকিং নিষেধ</string>
+    <string name="snu">না থেমে অতিক্রম করা/চলাচল নিষেধ</string>
+    <string name="snv">ডানদিকে টার্ন বা মোড় নেয়া নিষেধ</string>
+    <string name="snw">বামদিকে টার্ন বা মোড় নেয়া নিষেধ</string>
+    <string name="snx">ইউ টার্ন নেয়া নিষেধ</string>
+    <string name="sny">হর্ন বাজানো নিষেধ</string>
+    <string name="snbbb">সামনে উভয় পাশ হতে রাস্তা সরু হয়েছে</string>
+    <string name="snccc">সামনে ডান দিক হতে রাস্তা সরু হয়েছে</string>
+    <string name="snddd">দুটি পৃথক , দু লেনের একটি সড়কে পরিনত হয়েছে</string>
+    <string name="sneee">সামনে ট্রাফিক সিগন্যাল আছে</string>
+    <string name="snfff">সামনে ঢালু পাহাড় আছে</string>
+    <string name="snggg">সামনে খাড়া পাহাড় আছে</string>
+    <string name="snhhh">সামনে প্রতিবন্ধকতার সীমিত উচ্চতা আছে</string>
+    <string name="sniii">সামনে উভয়দিকে সোজাসুজি চলাচল</string>
+    <string name="snjjj">এক মুখী রাস্তা সামনে যে রাস্তায় মিলিত হবে তার উভয়দিকে গাড়ি আড়াআড়ি চলে</string>
+    <string name="snkkk">সামনে পথ চারী পারাপার</string>
+    <string name="snnn">শুধু মাত্র সাইকেল চলাচল রাস্তা</string>
+    <string name="snoo">সামনে আড়াআড়ি ছোট সড়ক আছে</string>
+    <string name="snpp">সামনে আড়াআড়ি প্রধান সড়ক আছে</string>
+    <string name="snqq">সামনে ডান দিকে পার্শ্ব রাস্তা আছে</string>
+    <string name="snss">সামনে টি-জাংশন আছে</string>
+    <string name="sntt">সামনে ওয়াই-জাংশন আছে</string>
+    <string name="snuu">সামনে বামদিক থেকে গাড়ি মিশতে পারে</string>
+    <string name="snvv">সামনে ডানদিক থেকে গাড়ি মিশতে পারে</string>
+    <string name="snww">সামনে গোলচক্কর</string>
+    <string name="snxx">সামনে ডানদিকে আচমকা মোড় আছে</string>
+    <string name="snyy">সামনে ডানদিকে খাঁড়া বাঁক আছে</string>
+    <string name="snzz">সামনে দুটি বাঁক আছে , প্রথমটি বামে</string>
+    <string name="snaaaa">সামনে রাস্তার ওপর আলগা নুড়ি-পাথর আছে</string>
+    <string name="snbbbb">সামনে রাস্তায় সাইকেল/রিকশা চলাচল করে</string>
+    <string name="sncccc">সামনে রাস্তার শোল্ডার বিপজ্জনক</string>
+    <string name="sndddd">সামনে ফেরিঘাট আছে</string>
+    <string name="sneeee">সামনে রাস্তায় অন্ধ মানুষ চলাচল করতে পারে</string>
+    <string name="snffff">অরক্ষিত রেলক্রসিং</string>
+    <string name="sngggg">রক্ষিত রেলক্রসিং</string>
+    <string name="snlll">ফুটপাত না থাকায় সামনে সড়কে পথচারী চলাচল করে</string>
+    <string name="snmmm">সামনে স্কুল </string>
+    <string name="snnnn">সামনে গবাদিপশু রাস্তায় চলাচল করতে পারে</string>
+    <string name="snooo">সামনে বন্য প্রানী রাস্তায় চলাচল করতে পারে</string>
+    <string name="snppp">সামনে নদী/গভীর খাদের কিনারা আছে</string>
+    <string name="snqqq">সামনে অসমতল ত্রুটিপূর্ণ সড়ক</string>
+    <string name="snrrr">সামনে পিচ্ছিল সড়ক</string>
+    <string name="snsss">সামনে গতিরোধক</string>
+    <string name="snttt">সামনে বিমানবন্দর</string>
+    <string name="snuuu">সামনে পাহাড়ের পার্শ্ব হতে শিলা পড়তে পারে</string>
+    <string name="snvvv">সামনে বিপজ্জনপক খাদ/গর্ত আচে</string>
+    <string name="snwww">সামনে সরু সেতু আছে</string>
+    <string name="snxxx">সামনে বিভিন্ন বিপদাশঙ্কা আছে</string>
+    <string name="snyyy">সামনে চেক পয়েন্ট আছে</string>
+    <string name="snzzz">সামনে সড়ক মেরামতের কাজ চলছে</string>
+    <string name="snaaa">সামনে অজানা বাঁক নির্দেশ করে</string>
+    <string name="snhhhh">রেলক্রসিং এর দূরত্ব বুঝায় </string>
+    <string name="sniiii">রেলক্রসিং এর অবস্থান বুঝায়</string>
+    <string name="snjjjj">ছোট রাস্তা দিয়ে চলার সময় জাংশন শনাক্ত করতে ব্যবহৃত হয়</string>
+    <string name="snkkkk">একপাশে বিপজ্জনক প্রতিরোধ</string>
+    <string name="snllll">উভয়পাশে বিপজ্জনক প্রতিরোধ</string>
+    <string name="snnnnn">সামনে সাময়িক বিকল্প সড়ক নকশা</string>
+    <string name="snoooo">সামনে বিকল্প সড়ক নির্দেশনা</string>
+    <string name="snpppp">সামনে সাময়িকভাবে লেন বন্ধ</string>
+    <string name="snqqqq">আচমকা বামে মোড়</string>
+    <string name="snrr">সামনে বামে ডানে একাধিক সংযোগ সড়ক</string>
+    <string name="one">১</string>
+    <string name="two">২</string>
+    <string name="three">৩</string>
+    <string name="four">৪</string>
+    <string name="five">৫</string>
+    <string name="six">৬</string>
+    <string name="Cone">১ / </string>
+    <string name="Ctwo">২ / </string>
+    <string name="Cthree">৩ / </string>
+    <string name="Cfour">৪ / </string>
+    <string name="Cfive">৫ / </string>
+    <string name="Csix">৬ / </string>
+    <string name="title_activity_mmssend">MMSsend</string>
+    <string name="nameHint">*নাম লিখুন (৩ অক্ষরের অধিক)</string>
+    <string name="phnHint">*মোবাইল নাম্বার লিখুন (১১ ডিজিট)</string>
+    <string name="commentHint">*অভিযোগ লিখুন (১০ অক্ষরের অধিক)</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="Division">
+        <item> ঢাকা বিভাগ</item>
+        <item> চট্টগ্রাম বিভাগ</item>
+        <item> বরিশাল বিভাগ </item>
+        <item> রাজশাহী বিভাগ</item>
+        <item> খুলনা বিভাগ</item>
+        <item> সিলেট বিভাগ</item>
+    </string-array>
+    <string-array name="Dhaka">
+        
+        <item> ঢাকা মেট্রো(দক্ষিন)</item>
+        <item> নারায়নগঞ্জ</item>
+        <item> গাজীপুর</item>
+        <item> টাঙ্গাইল</item>
+        <item> ফরিদপুর</item>
+        <item> ময়মনসিংহ</item>
+        <item> কিশোরগঞ্জ</item>
+        <item> জামালপুর</item>
+        <item> গোপালগঞ্জ</item>
+    </string-array>
+    <string-array name="CTG">
+        <item> চট্টগ্রাম সার্কেল(মেট্রো ১) </item>
+        <item> চট্টগ্রাম সার্কেল(জেলা)  </item>
+        <item> কুমিল্লা</item>
+        <item> চাঁদপুর</item>
+        <item> লক্ষ্মীপুর</item>
+        <item> নোয়াখালী</item>
+        <item> ফেনী</item>
+    </string-array>
+    <string-array name="Barishal">
+        <item> বরিশাল</item>
+        <item> ভোলা</item>
+        <item> পটুয়াখালী</item>
+        <item> ঝালুকাঠি</item>
+        <item> পিরোজপুর</item>
+        <item> বরগুনা</item>
+    </string-array>
+    <string-array name="Rajshahi">
+        <item> রাজশাহী সার্কেল </item>
+        <item> বগুড়া</item>
+        <item> পাবনা</item>
+        <item> নাটোর</item>
+        <item> নওগাঁ</item>
+        <item> চাঁপাইনবাবগঞ্জ</item>
+        <item> সিরাজগঞ্জ</item>
+        <item> জয়পুরহাট</item>
+    </string-array>
+    <string-array name="khulna">
+        <item> খুলনা</item>
+        <item> কুষ্টিয়া</item>
+        <item> চুয়াডাঙ্গা</item>
+        <item> ঝিনাইদহ</item>
+    </string-array>
+    <string-array name="sylhet">
+        <item> সিলেট</item>
+        <item> মৌলভীবাজার</item>
+        <item> সুনামগঞ্জ</item>
+        <item> হবিগঞ্জ</item>
+    </string-array>
+
+    <string name="warning">অনুগ্রহ করে সকল ফরম সঠিক ভাবে পূরণ করুন</string>
+    <string name="warningForInfo">আপনার প্রদানকৃত তথ্য পুনঃ পরীক্ষা করুন</string>
+    <string name="warningIntent">আবার চেষ্টা করুন</string>
+    <string name="FaildSMS">সফল ভাবে তথ্য পাঠানো সম্ভব হয় নি</string>
+    <string name="SuccessMMS">সফল ভাবে ছবি সহ তথ্য পাঠানো হয়েছে</string>
+    <string name="SuccessSMS">সফল ভাবে তথ্য পাঠানো হয়েছে</string>
+    <string name="title_activity_mail_action">MailAction</string>
+    <string name="FailMail">মেইল পাঠানো সম্ভব হয় নি , নেটওয়ার্ক অথবা তথ্য প্রদানে ভুল রয়েছে</string>
+    <string name="SuccessMail">সফল ভাবে মেইল পাঠানো হয়েছে</string>
+    <string name="UserMailHints">আপনার ই-মেইল প্রবেশ করুন</string>
+    <string name="UserPassWordHints">আপনার পাসওয়ার্ড দিন</string>
+    <string name="MailSubHint">ই-মেইল বিষয় লিখুন</string>
+    <string name="mailSendin">ই-মেইল পাঠানো হচ্ছে . . .</string>
+    <string name="AlarmAwarness">সড়ক দুর্ঘটনা রোধে নিজে সচেতন হোন ও অন্যকে সচেতন করুন</string>
+    <string name="NotTitle">অ্যালার্ম সচেতনতা</string>
+    <string name="title_activity_danger_place">DangerPlace</string>
+    <string name="title_activity_map_show">MapShow</string>
+    <string name="title_activity_danger_place_by_area">DangerPlaceByArea</string>
+
+    <string-array name="TitleBlack">
+        <item> ঢাকা-চট্টগ্রাম হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> ঢাকা-আরিচা হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> দৌলতদিয়া- ঝিনাইদহ - খুলনা হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> নগরবাড়ি-বাংলাবান্ধা হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> ঢাকা-ময়মনসিংহ হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> গাজিপুর-টাঙ্গাইল-জামালপুর হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> নগরবাড়ি- রাজশাহী হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> ঢাকা-মাওয়া-বরিশাল হাইওয়ে (১৯৯৮-২০০৭)</item>
+        <item> যমুনা ব্রিজ রোড (১৯৯৮-২০০৭)</item>
+        <item> ঢাকা-সিলেট হাইওয়ে (১৯৯৮-২০০৭)</item>
+    </string-array>
+
+    <string name="sl">ক্রমিক নম্বর</string>
+    <string name="place">স্থানের নাম</string>
+    <string name="km">কি.মি.</string>
+    <string name="dist">ব্যবধান</string>
+    <string name="active">সতর্কতা বার্তা চালু করা হয়েছে</string>
+    <string name="acWarning">আপনি কি দুর্ঘটনা প্রবন এলাকার জন্য সতর্কতা বার্তা চালু করতে চান ?</string>
+    <string name="NOcO">১</string>
+    <string name="NOcT">নারায়ণঞ্জ সড়ক  সংযোগস্থল</string>
+    <string name="NOcTh">১১.৭</string>
+    <string name="NOcF">১২.২</string>
+    <string name="NOcFi">০.৬</string>
+    <string name="NTcO">২</string>
+    <string name="NTcT">মধ্য বাউছিয়া বাস স্ট্যান্ড </string>
+    <string name="NTcTh">৩৬.০</string>
+    <string name="NTcF">৩৬.৬</string>
+    <string name="NTcFi">০.৭</string>
+    <string name="NTHcO">৩</string>
+    <string name="NTHcT">ফেনী – লক্ষ্মীপুর সংযোগস্থল</string>
+    <string name="NTHcTh">১৫৭.০</string>
+    <string name="NTHcF">১৫৭.৫</string>
+    <string name="NTHcFi">০.৬</string>
+    <string name="NFcO">৪</string>
+    <string name="NFcT">মেঘনা ঘাট সংযোগস্থল</string>
+    <string name="NFcTh">২৭.৩ </string>
+    <string name="NFcF">২৯.৭৪</string>
+    <string name="NFcFi">০.৩</string>
+    <string name="NFIcO">৫</string>
+    <string name="NFIcT">গজারিয়া বাস স্ট্যান্ড-এর পর</string>
+    <string name="NFIcTh">২৯.৫</string>
+    <string name="NFIcF">২৯.৭৪</string>
+    <string name="NFIcFi">০.৩</string>
+    <string name="NScO">৬</string>
+    <string name="NScT">ফটিকছড়ি সংযোগস্থল</string>
+    <string name="NScTh">২০৭.০</string>
+    <string name="NScF">২০৭.৫</string>
+    <string name="NScFi">০.৬</string>
+    <string name="NSEcO">৭</string>
+    <string name="NSEcT">চান্দিনা – দেবিদ্বার সংযোগস্থল </string>
+    <string name="NSEcTh">৭৩.০</string>
+    <string name="NSEcF">৭৩.৬</string>
+    <string name="NSEcFi">০.৭</string>
+    <string name="NEcO">৮</string>
+    <string name="NEcT">ফেনী লেভেল ক্রসিং এর আগে</string>
+    <string name="NEcTh">১৪৭.৮</string>
+    <string name="NEcF">১৪৮.০</string>
+    <string name="NEcFi">০.৩</string>
+    <string name="NNcO">৯</string>
+    <string name="NNcT">বান্দরটাকি বাস স্ট্যান্ড</string>
+    <string name="NNcTh">১৬৪.৬</string>
+    <string name="NNcF">১৬৫.২</string>
+    <string name="NNcFi">০.৭</string>
+    <string name="NTEcO">১০</string>
+    <string name="NTEcT">বারোয়ার বাজার</string>
+    <string name="NTEcTh">১৭৮.৪</string>
+    <string name="NTEcF">১৭৯.০</string>
+    <string name="NTEcFi">০.৭</string>
+    <string name="NELcO">১১</string>
+    <string name="NELcT">নয়াবাড়ি বাস স্ট্যান্ড</string>
+    <string name="NELcTh">১৪.৭</string>
+    <string name="NELcF">১৫.১</string>
+    <string name="NELcFi">০.৫</string>
+    <string name="NTWcO">১২</string>
+    <string name="NTWcT">চাঁদপুর – কুমিল্লা সংযোগস্থল</string>
+    <string name="NTWcTh">৯৪.৯</string>
+    <string name="NTWcF">৯৫.৫</string>
+    <string name="NTWcFi">০.৭</string>
+    <string name="NTHIcO">১৩</string>
+    <string name="NTHIcT">১৪৯ কি.মি. পোস্ট</string>
+    <string name="NTHIcTh">১৪৯.০</string>
+    <string name="NTHIcF">১৪৯.১</string>
+    <string name="NTHIcFi">০.২</string>
+    <string name="NFOcO">১৪</string>
+    <string name="NFOcT">নুরানী মাদ্রাসা বাস স্ট্যান্ড</string>
+    <string name="NFOcTh">১৫৮.৬</string>
+    <string name="NFOcF">১৫৯.১</string>
+    <string name="NFOcFi">০.৬</string>
+    <string name="NFIFcO">১৫</string>
+    <string name="NFIFcT">মোঃ আলী বাজার / বাস স্ট্যান্ড</string>
+    <string name="NFIFcTh">১৪২.০</string>
+    <string name="NFIFcF">১৪২.৪</string>
+    <string name="NFIFcFi">০.৫</string>
+    <string name="NSIXcO">১৬</string>
+    <string name="NSIXcT">ফাজিলপুর মাদ্রাসা / বাস স্ট্যান্ড</string>
+    <string name="NSIXcTh">১৭০.১</string>
+    <string name="NSIXcF">১৭০.৪</string>
+    <string name="NSIXcFi">০.৪</string>
+    <string name="NSEVcO">১৭</string>
+    <string name="NSEVcT">মুহুরীগঞ্জ বাস স্ট্যান্ড / সংযোগস্থল</string>
+    <string name="NSEVcTh">১৭২.৭</string>
+    <string name="NSEVcF">১৭৩.০</string>
+    <string name="NSEVcFi">০.৪</string>
+    <string name="NEIcO">১৮</string>
+    <string name="NEIcT">বড় টাকিয়া বাজার / বাস স্ট্যান্ড</string>
+    <string name="NEIcTh">২০৯.৭</string>
+    <string name="NEIcF">২১০.০</string>
+    <string name="NEIcFi">০.৪</string>
+    <string name="NNINcO">১৯</string>
+    <string name="NNINcT">হাড়াতলি প্রাইমারি স্কুল/বাস স্ট্যান্ড</string>
+    <string name="NNINcTh">৯২.৭</string>
+    <string name="NNINcF">৯৩.২</string>
+    <string name="NNINcFi">০.৬</string>
+    <string name="NTWEcO">২০</string>
+    <string name="NTWEcT">সীতাকুণ্ড বাজার</string>
+    <string name="NTWEcTh">২২৬.৬</string>
+    <string name="NTWEcF">২২৭.০</string>
+    <string name="NTWEcFi">০.৫</string>
+    <string name="NTOcO">২১</string>
+    <string name="NTOcT">বাঁশবাড়িয়া বাজার</string>
+    <string name="NTOcTh">২৩৫.৩</string>
+    <string name="NTOcF">২৩৫.৬</string>
+    <string name="NTOcFi">০.৪</string>
+    <string name="NTTcO">২২</string>
+    <string name="NTTcT">কুমিরা বাজার</string>
+    <string name="NTTcTh">২৩৯.৭ </string>
+    <string name="NTTcF">২৩৯.৯</string>
+    <string name="NTTcFi">০.৩</string>
+    <string name="NTTHcO">২৩</string>
+    <string name="NTTHcT">মহিপাল সংযোগস্থল</string>
+    <string name="NTTHcTh">১৫৭.৮</string>
+    <string name="NTTHcF">১৫৮.২</string>
+    <string name="NTTHcFi">০.৫</string>
+    <string name="NTFOcO">২৪</string>
+    <string name="NTFOcT">কুমিল্লা ময়নামতি সংযোগস্থল</string>
+    <string name="NTFOcTh">৯০.৩</string>
+    <string name="NTFOcF">৯০.৮</string>
+    <string name="NTFOcFi">০.৬</string>
+    <string name="NTFIOcO">২৫</string>
+    <string name="NTFIOcT">ধনঘাট বাজার / বাস স্ট্যান্ড</string>
+    <string name="NTFIOcTh">১৭৬.০</string>
+    <string name="NTFIOcF">১৭৬.৪</string>
+    <string name="NTFIOcFi">০.৫</string>
+    <string name="NTSIOcO">২৬</string>
+    <string name="NTSIOcT">	ইলিয়টগঞ্জ বাস স্ট্যান্ড</string>
+    <string name="NTSIOcTh">৫৮.৭ </string>
+    <string name="NTSIOcF">৫৯.০</string>
+    <string name="NTSIOcFi">০.৪</string>
+    <string name="NTSEVOcO">২৭</string>
+    <string name="NTSEVOcT">হাড়িখোলা বাস স্ট্যান্ড</string>
+    <string name="NTSEVOcTh">৭১.০</string>
+    <string name="NTSEVOcF">৭১.৫</string>
+    <string name="NTSEVOcFi">০.৬</string>
+    <string name="NTEIOcO">২৮</string>
+    <string name="NTEIOcT">হাজী ফকির হাট বাস স্ট্যান্ড</string>
+    <string name="NTEIOcTh">২১৩.৩</string>
+    <string name="NTEIOcF">২১৩.৮</string>
+    <string name="NTEIOcFi">০.৬</string>
+    <string name="NTNINOcO">২৯</string>
+    <string name="NTNINOcT">ব্র্যাক অফিস বাস স্ট্যান্ড</string>
+    <string name="NTNINOcTh">১৪৯.৫</string>
+    <string name="NTNINOcF">১৫০.১</string>
+    <string name="NTNINOcFi">০.৭</string>
+    <string name="NTHIOcO">৩০</string>
+    <string name="NTHIOcT">ফেনী বাইপাস এর শেষে</string>
+    <string name="NTHIOcTh">১৬০.৭</string>
+    <string name="NTHIOcF">১৬১.৬</string>
+    <string name="NTHIOcFi">১.০</string>
+    <string name="NTHOOcO">৩১</string>
+    <string name="NTHOcT">শীতলপুর উচ্চ বিদ্যালয়</string>
+    <string name="NTHOcTh">২৪৫.৩</string>
+    <string name="NTHOcF">২৪৫.৭</string>
+    <string name="NTHOcFi">০.৫</string>
+    <string name="NTHTOcO">৩২</string>
+    <string name="NTHTOcT">দাঊদকান্দি বাস স্ট্যান্ড</string>
+    <string name="NTHTOcTh">৪২.৯</string>
+    <string name="NTHTOcF">-</string>
+    <string name="NTHTOcFi">-</string>
+    <string name="NTHTROcO">৩৩</string>
+    <string name="NTHTROcT">মদনপুর বাস স্ট্যান্ড</string>
+    <string name="NTHTROcTh">১৬.৬</string>
+    <string name="NTHTROcF">-</string>
+    <string name="NTHTROcFi">-</string>
+    <string name="NTHFROcO">৩৪</string>
+    <string name="NTHFROcT">বড়পা  বাস স্ট্যান্ড</string>
+    <string name="NTHFROcTh">৪৭.৬</string>
+    <string name="NTHFROcF"></string>
+    <string name="NTHFROcFi"></string>
+    <string name="NTHFVOcO">৩৫</string>
+    <string name="NTHFVOcT">ছিলনিয়া বাস স্ট্যান্ড</string>
+    <string name="NTHFVOcTh">১৬২.০  </string>
+    <string name="NTHFVOcF">-</string>
+    <string name="NTHFVOcFi">-</string>
+    <string name="NTHSIXOcO">৩৬</string>
+    <string name="NTHSIXOcT">দ্বীপপুর বাস স্ট্যান্ড</string>
+    <string name="NTHSIXOcTh">৫৩.০ </string>
+    <string name="NTHSIXOcF">-</string>
+    <string name="NTHSIXOcFi">-</string>
+    <string name="NTHSENOcO">৩৭</string>
+    <string name="NTHSENOcT">আনসার ব্যাটালিয়ন অফিস</string>
+    <string name="NTHSENOcTh">১৯৮.০</string>
+    <string name="NTHSENOcF">-</string>
+    <string name="NTHSENOcFi">-</string>
+    <string name="NTHEiNOcO">৩৮</string>
+    <string name="NTHEiNOcT">দরিয়াকান্দি বাস স্ট্যান্ড</string>
+    <string name="NTHEiNOcTh">২১.২</string>
+    <string name="NTHEiNOcF">-</string>
+    <string name="NTHEiNOcFi">-</string>
+    <string name="bNOcO">১</string>
+    <string name="bNOcT">টেপরা বাস স্ট্যান্ড</string>
+    <string name="bNOcTh">৮২.২</string>
+    <string name="bNOcF">৮২.৭</string>
+    <string name="bNOcFi">০.৬</string>
+    <string name="bNTcO">২</string>
+    <string name="bNTcT">পুখুরিয়া বাস স্ট্যান্ড </string>
+    <string name="bNTcTh">৭৩.৪</string>
+    <string name="bNTcF">৭৩.৬</string>
+    <string name="bNTcFi">০.৩</string>
+    <string name="bNTHcO">৩</string>
+    <string name="bNTHcT">গলরা / কামতা বাস স্ট্যান্ডল</string>
+    <string name="bNTHcTh">৫৭.৫</string>
+    <string name="bNTHcF">৫৮.০</string>
+    <string name="bNTHcFi">০.৬</string>
+    <string name="bNFcO">৪</string>
+    <string name="bNFcT">বরংগাইল বাস স্ট্যান্ড</string>
+    <string name="bNFcTh">৭৭.৩</string>
+    <string name="bNFcF">৭৮.০</string>
+    <string name="bNFcFi">০.৮</string>
+    <string name="bNFIcO">৫</string>
+    <string name="bNFIcT">মানিকগঞ্জ সংযোগস্থল</string>
+    <string name="bNFIcTh">৬৩.২ </string>
+    <string name="bNFIcF">৬৩.৪ </string>
+    <string name="bNFIcFi">০.৩</string>
+    <string name="bNScO">৬</string>
+    <string name="bNScT">সাভার বাজার বাস স্ট্যান্ড</string>
+    <string name="bNScTh">২৫.৫ </string>
+    <string name="bNScF">২৬.০ </string>
+    <string name="bNScFi">০.৬</string>
+    <string name="bNSEcO">৭</string>
+    <string name="bNSEcT">বাঠুলি বাস স্ট্যান্ড </string>
+    <string name="bNSEcTh">৫০.৭ </string>
+    <string name="bNSEcF">৫১.৪ </string>
+    <string name="bNSEcFi">০.৮</string>
+    <string name="bNEcO">৮</string>
+    <string name="bNEcT">ধামরাই / ধুলিভিটা বাস স্ট্যান্ড</string>
+    <string name="bNEcTh">৩৯.৪ </string>
+    <string name="bNEcF">৪০.০ </string>
+    <string name="bNEcFi">০.৭</string>
+    <string name="bNNcO">৯</string>
+    <string name="bNNcT">জয়পুর বাস স্ট্যান্ড</string>
+    <string name="bNNcTh">৪১.৯</string>
+    <string name="bNNcF">৪২.০ </string>
+    <string name="bNNcFi">০.২</string>
+    <string name="bNTEcO">১০</string>
+    <string name="bNTEcT">তারাঘাট বাস স্ট্যান্ড</string>
+    <string name="bNTEcTh">৬৮.০</string>
+    <string name="bNTEcF">৬৮.৫ </string>
+    <string name="bNTEcFi">০.৬</string>
+    <string name="bNELcO">১১</string>
+    <string name="bNELcT">কামারদিয়া বাস স্ট্যান্ড</string>
+    <string name="bNELcTh">৬০.০ </string>
+    <string name="bNELcF">৬০.৪ </string>
+    <string name="bNELcFi">০.৫</string>
+    <string name="bNTWcO">১২</string>
+    <string name="bNTWcT">নবী নগর বাস স্ট্যান্ড</string>
+    <string name="bNTWcTh">৩৩.৫ </string>
+    <string name="bNTWcF">৩৪.০ </string>
+    <string name="bNTWcFi">০.৬</string>
+    <string name="bNTHIcO">১৩</string>
+    <string name="bNTHIcT">মানিকগঞ্জ পুলিশ লাইন</string>
+    <string name="bNTHIcTh">৬২.৩ </string>
+    <string name="bNTHIcF">৬২.৬</string>
+    <string name="bNTHIcFi">০.৪</string>
+    <string name="bNFOcO">১৪</string>
+    <string name="bNFOcT">বানিঝুড়ি বাজার বাস স্ট্যান্ড</string>
+    <string name="bNFOcTh">৭০.৫  </string>
+    <string name="bNFOcF">৭১.০ </string>
+    <string name="bNFOcFi">০.৬</string>
+    <string name="bNFIFcO">১৫</string>
+    <string name="bNFIFcT">মহাদেবপুর বাস স্ট্যান্ড</string>
+    <string name="bNFIFcTh">৭৬.৭ </string>
+    <string name="bNFIFcF">৭৬.৯</string>
+    <string name="bNFIFcFi">০.৩</string>
+    <string name="bNSIXcO">১৬</string>
+    <string name="bNSIXcT">কি.মি. ৫৭(ব্রিজের নিকটে)</string>
+    <string name="bNSIXcTh">৫৬.৫</string>
+    <string name="bNSIXcF">৫৬.৭ </string>
+    <string name="bNSIXcFi">০.৩</string>
+    <string name="bNSEVcO">১৭</string>
+    <string name="bNSEVcT">বড়বাড়িয়া বাজার</string>
+    <string name="bNSEVcTh">৫৪.০ </string>
+    <string name="bNSEVcF">৫৪.৫ </string>
+    <string name="bNSEVcFi">০.৬</string>
+    <string name="bNEIcO">১৮</string>
+    <string name="bNEIcT">ফলসাতিয়া বাস স্ট্যান্ড/ বাজার</string>
+    <string name="bNEIcTh">৮০.২ </string>
+    <string name="bNEIcF">-</string>
+    <string name="bNEIcFi">-</string>
+    <string name="bNNINcO">১৯</string>
+    <string name="bNNINcT">মুলজান বাস স্ট্যান্ড</string>
+    <string name="bNNINcTh">৬৫.০ </string>
+    <string name="bNNINcF">-</string>
+    <string name="bNNINcFi">-</string>
+    <string name="bNTWEcO">২০</string>
+    <string name="bNTWEcT">হেমায়েতপুর – শিংগাইর সংযোগস্থল</string>
+    <string name="bNTWEcTh">১৯.০ </string>
+    <string name="bNTWEcF">-</string>
+    <string name="bNTWEcFi">-</string>
+    <string name="bNTOcO">২১</string>
+    <string name="bNTOcT">নয়াডিঙ্গি বাস স্ট্যান্ড</string>
+    <string name="bNTOcTh">৫৫.৮ </string>
+    <string name="bNTOcF">-</string>
+    <string name="bNTOcFi">-</string>
+    <string name="bNTTcO">২২</string>
+    <string name="bNTTcT">কামালপুর / সাটুরিয়া বাস স্ট্যান্ড</string>
+    <string name="bNTTcTh">৪৫.৩  </string>
+    <string name="bNTTcF">-</string>
+    <string name="bNTTcFi">-</string>
+    <string name="G">-</string>
+    <string name="cNOcO">১</string>
+    <string name="cNOcT">উজান চর / জামতলা বাস স্ট্যান্ড</string>
+    <string name="cNOcTh">৮২.২</string>
+    <string name="cNOcF">৮২.৭</string>
+    <string name="cNOcFi">০.৬</string>
+    <string name="cNTcO">২</string>
+    <string name="cNTcT">টি.এন.ও অফিস/কুষ্টিয়া সড়ক সংযোগস্থল </string>
+    <string name="cNTcTh">১০৫.৩</string>
+    <string name="cNTcF">১০৫.৬</string>
+    <string name="cNTcFi">০.৪</string>
+    <string name="cNTHcO">৩</string>
+    <string name="cNTHcT">খয়েরতলা মোড়</string>
+    <string name="cNTHcTh">২৭১.৫</string>
+    <string name="cNTHcF">২৭২.০</string>
+    <string name="cNTHcFi">০.৬</string>
+    <string name="cNFcO">৪</string>
+    <string name="cNFcT">গোলালান্ডো বাস স্ট্যান্ড</string>
+    <string name="cNFcTh">১০৪.৫ </string>
+    <string name="cNFcF">১০৪.৭</string>
+    <string name="cNFcFi">০.৩</string>
+    <string name="cNFIcO">৫</string>
+    <string name="cNFIcT">হাটগোপালপুর বাজার/বাস স্ট্যান্ড</string>
+    <string name="cNFIcTh">১৯০.০</string>
+    <string name="cNFIcF">১৯০.৪</string>
+    <string name="cNFIcFi">০.৫</string>
+    <string name="cNScO">৬</string>
+    <string name="cNScT">ঝিনাইদহ পুলিশ স্টেশন</string>
+    <string name="cNScTh">২২৮.৪</string>
+    <string name="cNScF">২২৯.০ </string>
+    <string name="cNScFi">০.৭</string>
+    <string name="cNSEcO">৭</string>
+    <string name="cNSEcT">রাজঘাট বাজার/বাস স্ট্যান্ড </string>
+    <string name="cNSEcTh">৩০৫.৫</string>
+    <string name="cNSEcF">৩০৬.০</string>
+    <string name="cNSEcFi">০.৬</string>
+    <string name="cNEcO">৮</string>
+    <string name="cNEcT">রুপসা ঘাট সংযোগস্থল</string>
+    <string name="cNEcTh">৩৩৫.৪</string>
+    <string name="cNEcF">৩৩৫.৭</string>
+    <string name="cNEcFi">০.৪</string>
+    <string name="cNNcO">৯</string>
+    <string name="cNNcT">নড়াইল সংযোগস্থল/হাসপাতাল</string>
+    <string name="cNNcTh">১৭৬.১</string>
+    <string name="cNNcF">১৭৬.৪</string>
+    <string name="cNNcFi">০.৪</string>
+    <string name="cNTEcO">১০</string>
+    <string name="cNTEcT">২৩৯ কি.মি. পোস্ট</string>
+    <string name="cNTEcTh">২৩৯.০</string>
+    <string name="cNTEcF">২৩৯.৫</string>
+    <string name="cNTEcFi">০.৬</string>
+    <string name="cNELcO">১১</string>
+    <string name="cNELcT">নোয়াপাড়া বাস স্ট্যান্ড</string>
+    <string name="cNELcTh">৩৪৪.৩</string>
+    <string name="cNELcF">৩৪৪.৭</string>
+    <string name="cNELcFi">০.৫</string>
+    <string name="cNTWcO">১২</string>
+    <string name="cNTWcT">লাকপুর বাস স্ট্যান্ড</string>
+    <string name="cNTWcTh">৩৪২.৫</string>
+    <string name="cNTWcF">৩৪২.৬</string>
+    <string name="cNTWcFi">০.২</string>
+    <string name="cNTHIcO">১৩</string>
+    <string name="cNTHIcT">দৌলতদিয়া হাই স্কুল</string>
+    <string name="cNTHIcTh">১০১.০</string>
+    <string name="cNTHIcF">-</string>
+    <string name="cNTHIcFi">-</string>
+    <string name="cNFOcO">১৪</string>
+    <string name="cNFOcT">রাজারহাট বাজার/চুকনগর সংযোগস্থল</string>
+    <string name="cNFOcTh">২৭৯.৩</string>
+    <string name="cNFOcF">-</string>
+    <string name="cNFOcFi">-</string>
+    <string name="cNFIFcO">১৫</string>
+    <string name="cNFIFcT">মাগুড়া পুলিশ লাইন</string>
+    <string name="cNFIFcTh">১৭৭.৭</string>
+    <string name="cNFIFcF">-</string>
+    <string name="cNFIFcFi">-</string>
+    <string name="cNSIXcO">১৬</string>
+    <string name="cNSIXcT">কানাইপুর বাজার / বাস স্ট্যান্ড</string>
+    <string name="cNSIXcTh">১৩৫.২</string>
+    <string name="cNSIXcF">-</string>
+    <string name="cNSIXcFi">-</string>
+    <string name="eNOcO">১</string>
+    <string name="eNOcT">ভরাডোবা বাজার</string>
+    <string name="eNOcTh">৮৫.০</string>
+    <string name="eNOcF">৮৫.৩</string>
+    <string name="eNOcFi">০.৪</string>
+    <string name="eNTcO">২</string>
+    <string name="eNTcT">ময়মনসিংহ পলিটেকনিক </string>
+    <string name="eNTcTh">১১৮.৭</string>
+    <string name="eNTcF">১১৯.২</string>
+    <string name="eNTcFi">০.৬</string>
+    <string name="eNTHcO">৩</string>
+    <string name="eNTHcT">টঙ্গী মার্কেট</string>
+    <string name="eNTHcTh">২১.৬</string>
+    <string name="eNTHcF">১২১.৮</string>
+    <string name="eNTHcFi">০.৩</string>
+    <string name="eNFcO">৪</string>
+    <string name="eNFcT">টঙ্গী স্টেশন রোড সংযোগস্থল</string>
+    <string name="eNFcTh">২২.৭ </string>
+    <string name="eNFcF">২২.৯</string>
+    <string name="eNFcFi">০.৩</string>
+    <string name="eNFIcO">৫</string>
+    <string name="eNFIcT">গিলারছালা বাজার</string>
+    <string name="eNFIcTh">৮০.৪</string>
+    <string name="eNFIcF">-</string>
+    <string name="eNFIcFi">-</string>
+    <string name="eNScO">৬</string>
+    <string name="eNScT">গফরগাঁও রোড সংযোগস্থল</string>
+    <string name="eNScTh">৮০.৪</string>
+    <string name="eNScF">-</string>
+    <string name="eNScFi">-</string>
+    <string name="eNSEcO">৭</string>
+    <string name="eNSEcT">বোর্ড বাজার </string>
+    <string name="eNSEcTh">২৮.৯</string>
+    <string name="eNSEcF">-</string>
+    <string name="eNSEcFi">-</string>
+    <string name="eNEcO">৮</string>
+    <string name="eNEcT">সিড স্টোর সংযোগস্থল</string>
+    <string name="eNEcTh">১৪৭.৮</string>
+    <string name="eNEcF">১৪৮.০</string>
+    <string name="eNEcFi">০.৩</string>
+    <string name="eNNcO">৯</string>
+    <string name="eNNcT">২৬ কি.মি. পোস্ট</string>
+    <string name="eNNcTh">২৬.০</string>
+    <string name="eNNcF">-</string>
+    <string name="eNNcFi">-</string>
+    <string name="eNTEcO">১০</string>
+    <string name="eNTEcT">পোড়াবাড়ি বাজার</string>
+    <string name="eNTEcTh">৪০.৯</string>
+    <string name="eNTEcF">-</string>
+    <string name="eNTEcFi">-</string>
+    <string name="fNOcO">১</string>
+    <string name="fNOcT">লতিফপুর বাজার</string>
+    <string name="fNOcTh">৫৩.৮</string>
+    <string name="fNOcF">৫৪.২</string>
+    <string name="fNOcFi">০.৫</string>
+    <string name="fNTcO">২</string>
+    <string name="fNTcT">টাঙ্গাইল টাউন সংযোগস্থল </string>
+    <string name="fNTcTh">৯৪.৩</string>
+    <string name="fNTcF">৯৪.৫</string>
+    <string name="fNTcFi">০.৩</string>
+    <string name="fNTHcO">৩</string>
+    <string name="fNTHcT">রুপালি গম মিল</string>
+    <string name="fNTHcTh">৯৯.০</string>
+    <string name="fNTHcF">৯৯.৩</string>
+    <string name="fNTHcFi">০.৪ </string>
+    <string name="fNFcO">৪</string>
+    <string name="fNFcT">সোহাগপুর বাজার</string>
+    <string name="fNFcTh">৬১.২ </string>
+    <string name="fNFcF">৬৪.৪</string>
+    <string name="fNFcFi">০.৩</string>
+    <string name="fNFIcO">৫</string>
+    <string name="fNFIcT">নবীনগর সংযোগস্থল</string>
+    <string name="fNFIcTh">৫০.৮</string>
+    <string name="fNFIcF">৫১.০</string>
+    <string name="fNFIcFi">০.৩</string>
+    <string name="fNScO">৬</string>
+    <string name="fNScT">করটিয়া বাজার</string>
+    <string name="fNScTh">৮৭.৬</string>
+    <string name="fNScF">৮৭.৮</string>
+    <string name="fNScFi">০.৩</string>
+    <string name="fNSEcO">৭</string>
+    <string name="fNSEcT">চন্দ্রা পিকনিক স্পট</string>
+    <string name="fNSEcTh">৫০.০</string>
+    <string name="fNSEcF">৫০.৪</string>
+    <string name="fNSEcFi">০.৫</string>
+    <string name="fNEcO">৮</string>
+    <string name="fNEcT">দেওহাটা বাজার</string>
+    <string name="fNEcTh">৬৪.৭</string>
+    <string name="fNEcF">-</string>
+    <string name="fNEcFi">-</string>
+    <string name="fNNcO">৯</string>
+    <string name="fNNcT">বোর্ডঘর বাজার</string>
+    <string name="fNNcTh">১৬৪.৬</string>
+    <string name="fNNcF">৫৯.৭</string>
+    <string name="fNNcFi">-</string>
+    <string name="fNTEcO">১০</string>
+    <string name="fNTEcT">ভূঁইয়াপুর সংযোগস্থল</string>
+    <string name="fNTEcTh">১০৪.৯</string>
+    <string name="fNTEcF">-</string>
+    <string name="fNTEcFi">-</string>
+    <string name="fNELcO">১১</string>
+    <string name="fNELcT">কূর্ণি বাজার</string>
+    <string name="fNELcTh">৭১.০</string>
+    <string name="fNELcF">-</string>
+    <string name="fNELcFi">-</string>
+    <string name="fNTWcO">১২</string>
+    <string name="fNTWcT">ধল্লা  বাসস্ট্যান্ড</string>
+    <string name="fNTWcTh">৯৪.৯</string>
+    <string name="fNTWcF">৯৫.৫</string>
+    <string name="fNTWcFi">০.৭</string>
+    <string name="fNTHIcO">১৩</string>
+    <string name="fNTHIcT">জামুর্কি বাসস্ট্যান্ড</string>
+    <string name="fNTHIcTh">৭৭.২</string>
+    <string name="fNTHIcF">-</string>
+    <string name="fNTHIcFi">-</string>
+    <string name="fNFOcO">১৪</string>
+    <string name="fNFOcT">নাটিয়াপাড়া বাজার</string>
+    <string name="fNFOcTh">৮০.৪</string>
+    <string name="fNFOcF">-</string>
+    <string name="fNFOcFi">-</string>
+    <string name="hNOcO">১</string>
+    <string name="hNOcT">নারায়ণঞ্জ সড়ক  সংযোগস্থল</string>
+    <string name="hNOcTh">১১.৭</string>
+    <string name="hNOcF">১২.২</string>
+    <string name="hNOcFi">০.৬</string>
+    <string name="hNTcO">২</string>
+    <string name="hNTcT">মধ্য বাউছিয়া বাস স্ট্যান্ড </string>
+    <string name="hNTcTh">৩৬.০</string>
+    <string name="hNTcF">৩৬.৬</string>
+    <string name="hNTcFi">০.৭</string>
+    <string name="hNTHcO">৩</string>
+    <string name="hNTHcT">ফেনী – লক্ষ্মীপুর সংযোগস্থল</string>
+    <string name="hNTHcTh">১৫৭.০</string>
+    <string name="hNTHcF">১৫৭.৫</string>
+    <string name="hNTHcFi">০.৬</string>
+    <string name="hNFcO">৪</string>
+    <string name="hNFcT">মেঘনা ঘাট সংযোগস্থল</string>
+    <string name="hNFcTh">২৭.৩ </string>
+    <string name="hNFcF">২৯.৭৪</string>
+    <string name="hNFcFi">০.৩</string>
+    <string name="iNOcO">১</string>
+    <string name="iNOcT">কোনাবাড়ি বাসস্ট্যান্ড</string>
+    <string name="iNOcTh">৩২.০</string>
+    <string name="iNOcF">৩২.৩</string>
+    <string name="iNOcFi">০.৪</string>
+    <string name="iNTcO">২</string>
+    <string name="iNTcT">মধ্য ভদ্রাঘাট</string>
+    <string name="iNTcTh">৩৫.০</string>
+    <string name="iNTcF">৩৬.৬</string>
+    <string name="iNTcFi">০.৭</string>
+    <string name="iNTHcO">৩</string>
+    <string name="iNTHcT">পাছিলা বাজার</string>
+    <string name="iNTHcTh">৪০.৭</string>
+    <string name="iNTHcF">৪১.১</string>
+    <string name="iNTHcFi">০.৫</string>
+    <string name="iNFcO">৪</string>
+    <string name="iNFcT">নলকা বাসস্ট্যান্ড</string>
+    <string name="iNFcTh">৩৭.৯ </string>
+    <string name="iNFcF">৩৮.২</string>
+    <string name="iNFcFi">০.৪</string>
+    <string name="iNFIcO">৫</string>
+    <string name="iNFIcT">ধোপাকান্দি</string>
+    <string name="iNFIcTh">৪২.৬</string>
+    <string name="iNFIcF">৪২.৭</string>
+    <string name="iNFIcFi">০.৩</string>
+    <string name="iNScO">৬</string>
+    <string name="iNScT">কড্ডার মোড়</string>
+    <string name="iNScTh">২৭.২</string>
+    <string name="iNScF">-</string>
+    <string name="iNScFi">-</string>
+    <string name="iNSEcO">৭</string>
+    <string name="iNSEcT">শল্লা বাসস্ট্যান্ড</string>
+    <string name="iNSEcTh">৭.৯</string>
+    <string name="iNSEcF">-</string>
+    <string name="iNSEcFi">-</string>
+    <string name="iNEcO">৮</string>
+    <string name="iNEcT">সায়দাবাদ বাসস্ট্যান্ড</string>
+    <string name="iNEcTh">২৫.৩</string>
+    <string name="iNEcF">-</string>
+    <string name="iNEcFi">-</string>
+    <string name="gNOcO">১</string>
+    <string name="gNOcT">ঝলমলিয়া বাজার </string>
+    <string name="gNOcTh">২৩১.০</string>
+    <string name="gNOcF">২৩১.৪</string>
+    <string name="gNOcFi">০.৫ </string>
+    <string name="gNTcO">২</string>
+    <string name="gNTcT">বনপাড়া বাসস্ট্যান্ড </string>
+    <string name="gNTcTh">১৯৭.৬ </string>
+    <string name="gNTcF">১৯৭.৯</string>
+    <string name="gNTcFi">০.৪</string>
+    <string name="gNTHcO">৩</string>
+    <string name="gNTHcT">পুঠিয়া বাজার</string>
+    <string name="gNTHcTh">২৩৩.৩</string>
+    <string name="gNTHcF">২৩৩.৪</string>
+    <string name="gNTHcFi">০.২</string>
+    <string name="gNFcO">৪</string>
+    <string name="gNFcT">বানেশ্বর বাজার</string>
+    <string name="gNFcTh">২৪২.৯</string>
+    <string name="gNFcF">২৪৩.০</string>
+    <string name="gNFcFi">০.২</string>
+    <string name="gNFIcO">৫</string>
+    <string name="gNFIcT">জালালপুর সংযোগস্থল</string>
+    <string name="gNFIcTh">১৪৮.০</string>
+    <string name="gNFIcF">১৪৮.৩</string>
+    <string name="gNFIcFi">০.৪</string>
+    <string name="gNScO">৬</string>
+    <string name="gNScT">আহমেদপুর বাজার</string>
+    <string name="gNScTh">২০৩.৮</string>
+    <string name="gNScF">২০৪.১</string>
+    <string name="gNScFi">০.৪</string>
+    <string name="gNSEcO">৭</string>
+    <string name="gNSEcT">চাঁদপুর বাজার</string>
+    <string name="gNSEcTh">২২৩.০</string>
+    <string name="gNSEcF">২২৩.৫</string>
+    <string name="gNSEcFi">০.৬</string>
+    <string name="gNEcO">৮</string>
+    <string name="gNEcT">আতাইকোলা বাজার</string>
+    <string name="gNEcTh">১৩৫.৪</string>
+    <string name="gNEcF">১৩৫.৮</string>
+    <string name="gNEcFi">০.৫</string>
+    <string name="gNNcO">৯</string>
+    <string name="gNNcT">গোরস্থান বাজার</string>
+    <string name="gNNcTh">২২৪.৫</string>
+    <string name="gNNcF">২২৪.৮</string>
+    <string name="gNNcFi">০.৪</string>
+    <string name="gNTEcO">১০</string>
+    <string name="gNTEcT">পুল্লাপুকুর বাসস্ট্যান্ড</string>
+    <string name="gNTEcTh">২৪৩.৮</string>
+    <string name="gNTEcF">২৪৪.২</string>
+    <string name="gNTEcFi">০.৫</string>
+    <string name="gNELcO">১১</string>
+    <string name="gNELcT">ছারগাবিন্দপুর বাজার</string>
+    <string name="gNELcTh">১১৯.৯</string>
+    <string name="gNELcF">১২০.৪</string>
+    <string name="gNELcFi">০.৬</string>
+    <string name="gNTWcO">১২</string>
+    <string name="gNTWcT">মালিগাছা বাসস্ট্যান্ড</string>
+    <string name="gNTWcTh">১৬০.৭</string>
+    <string name="gNTWcF">১৬১.০</string>
+    <string name="gNTWcFi">০.৪</string>
+    <string name="gNTHIcO">১৩</string>
+    <string name="gNTHIcT"> গড়মাটি বাজার</string>
+    <string name="gNTHIcTh">১৮৬.০</string>
+    <string name="gNTHIcF">১৮৬.৩</string>
+    <string name="gNTHIcFi">০.৪</string>
+    <string name="gNFOcO">১৪</string>
+    <string name="gNFOcT">নাটোর পুলিশ লাইন</string>
+    <string name="gNFOcTh">২১৩.৭</string>
+    <string name="gNFOcF">২১৪.০</string>
+    <string name="gNFOcFi">০.৪</string>
+    <string name="gNFIFcO">১৫</string>
+    <string name="gNFIFcT">তেবুনিয়া বাজার</string>
+    <string name="gNFIFcTh">১৬২.০</string>
+    <string name="gNFIFcF">১৬২.৪</string>
+    <string name="gNFIFcFi">০.৫</string>
+    <string name="gNSIXcO">১৬</string>
+    <string name="gNSIXcT">হযরতপুর বাজার</string>
+    <string name="gNSIXcTh">২০৭.৬</string>
+    <string name="gNSIXcF">-</string>
+    <string name="gNSIXcFi">-</string>
+    <string name="gNSEVcO">১৭</string>
+    <string name="gNSEVcT">দাশুরিয়া সংযোগস্থল</string>
+    <string name="gNSEVcTh">১৭৫.৪</string>
+    <string name="gNSEVcF">-</string>
+    <string name="gNSEVcFi">-</string>
+    <string name="gNEIcO">১৮</string>
+    <string name="gNEIcT">দরিয়াপুর বাসস্ট্যান্ড</string>
+    <string name="gNEIcTh">১১৪.৬</string>
+    <string name="gNEIcF">-</string>
+    <string name="gNEIcFi">-</string>
+    <string name="gNNINcO">১৯</string>
+    <string name="gNNINcT">চিনাখড়া বাজার</string>
+    <string name="gNNINcTh">১২৩.০</string>
+    <string name="gNNINcF">-</string>
+    <string name="gNNINcFi">-</string>
+    <string name="gNTWEcO">২০</string>
+    <string name="gNTWEcT">মদপুর বাজার</string>
+    <string name="gNTWEcTh">১৩৩.১</string>
+    <string name="gNTWEcF">-</string>
+    <string name="gNTWEcFi">-</string>
+    <string name="gNTOcO">২১</string>
+    <string name="gNTOcT">গাঙ্গুহাটি স্কুল</string>
+    <string name="gNTOcTh">১২৯.২</string>
+    <string name="gNTOcF">-</string>
+    <string name="gNTOcFi">-</string>
+    <string name="gNTTcO">২২</string>
+    <string name="gNTTcT">তাঁরাপুর বাজার/বাসস্ট্যান্ড</string>
+    <string name="gNTTcTh">২৩৫.৮</string>
+    <string name="gNTTcF">-</string>
+    <string name="gNTTcFi">-</string>
+    <string name="gNTTHcO">২৩</string>
+    <string name="gNTTHcT">দূর্গাপুর সংযোগস্থল</string>
+    <string name="gNTTHcTh">২৪০.৭</string>
+    <string name="gNTTHcF">-</string>
+    <string name="gNTTHcFi">-</string>
+    <string name="gNTFOcO">২৪</string>
+    <string name="gNTFOcT">কাপাশিয়া বাজার/বাসস্ট্যান্ড</string>
+    <string name="gNTFOcTh">২৪৯.০</string>
+    <string name="gNTFOcF">-</string>
+    <string name="gNTFOcFi">-</string>
+    <string name="jNOcO">১</string>
+    <string name="jNOcT">৮৬ কি.মি. পোস্ট এর আগে</string>
+    <string name="jNOcTh">৮৫.৯</string>
+    <string name="jNOcF">৮৬.৫</string>
+    <string name="jNOcFi">০.৭</string>
+    <string name="jNTcO">২</string>
+    <string name="jNTcT">ভুলতা বাজার/বাসস্ট্যান্ড </string>
+    <string name="jNTcTh">২৭.০</string>
+    <string name="jNTcF">২৭.২</string>
+    <string name="jNTcFi">০.৩</string>
+    <string name="jNTHcO">৩</string>
+    <string name="jNTHcT">জগন্নাথপুর প্রাইমারি স্কুল</string>
+    <string name="jNTHcTh">২০৯.৩</string>
+    <string name="jNTHcF">২০৯.৬</string>
+    <string name="jNTHcFi">০.৪</string>
+    <string name="jNFcO">৪</string>
+    <string name="jNFcT">ইসলামপুর বাজার</string>
+    <string name="jNFcTh">১১১.০ </string>
+    <string name="jNFcF">১১১.৩</string>
+    <string name="jNFcFi">০.৪</string>
+    <string name="jNFIcO">৫</string>
+    <string name="jNFIcT">কামালপুর বাজার</string>
+    <string name="jNFIcTh">২২০.৯</string>
+    <string name="jNFIcF">২২১.১</string>
+    <string name="jNFIcFi">০.৪</string>
+    <string name="jNScO">৬</string>
+    <string name="jNScT">কুসুমবাগ বাজার</string>
+    <string name="jNScTh">২১২.১</string>
+    <string name="jNScF">২১২.৬</string>
+    <string name="jNScFi">০.৭</string>
+    <string name="jNSEcO">৭</string>
+    <string name="jNSEcT">হাফিজপুর বাসস্ট্যান্ড </string>
+    <string name="jNSEcTh">১৬৫.৫</string>
+    <string name="jNSEcF">১৬৫.৮</string>
+    <string name="jNSEcFi">০.৪</string>
+    <string name="jNEcO">৮</string>
+    <string name="jNEcT">শেরপুর বাজার</string>
+    <string name="jNEcTh">২৩৬.০</string>
+    <string name="jNEcF">২৩৬.৫</string>
+    <string name="jNEcFi">০.৬</string>
+    <string name="jNNcO">৯</string>
+    <string name="jNNcT">শাহবন্দর বাসস্ট্যান্ড</string>
+    <string name="jNNcTh">২১৫.৩</string>
+    <string name="jNNcF">২১৫.৫</string>
+    <string name="jNNcFi">০.৩</string>
+    <string name="jNTEcO">১০</string>
+    <string name="jNTEcT">শ্রীমঙ্ঘল থানা স্বাস্থ্য কমপ্লেক্স</string>
+    <string name="jNTEcTh">১৯৫.১</string>
+    <string name="jNTEcF">১৯৫.৩</string>
+    <string name="jNTEcFi">০.৩</string>
+    <string name="jNTWcO">১১</string>
+    <string name="jNTWcT">শাহবাজপুর বাজার</string>
+    <string name="jNTWcTh">৯৯.৭</string>
+    <string name="jNTWcF">৯৯.৯</string>
+    <string name="jNTWcFi">০.৩</string>
+    <string name="jNTHIcO">১২</string>
+    <string name="jNTHIcT">শাহবাজপুর বাসস্ট্যান্ড</string>
+    <string name="jNTHIcTh">৯৯.২</string>
+    <string name="jNTHIcF"> ৯৯.৪</string>
+    <string name="jNTHIcFi">০.৩</string>
+    <string name="jNELcO">১৩</string>
+    <string name="jNELcT">বারুইরা বাজার/ বাসস্ট্যান্ড</string>
+    <string name="jNELcTh">৯৭.০</string>
+    <string name="jNELcF">৯৭.১</string>
+    <string name="jNELcFi">০.২</string>
+    <string name="jNFOcO">১৪</string>
+    <string name="jNFOcT">ব্রাহ্মণবাড়িয়া সংযোগস্থল</string>
+    <string name="jNFOcTh">৯৩.০</string>
+    <string name="jNFOcF">-</string>
+    <string name="jNFOcFi">-</string>
+    <string name="jNFIFcO">১৫</string>
+    <string name="jNFIFcT">শাহীপ্রতাপ সংযোগস্থল</string>
+    <string name="jNFIFcTh">৫০.০</string>
+    <string name="jNFIFcF">-</string>
+    <string name="jNFIFcFi">-</string>
+    <string name="jNSIXcO">১৬</string>
+    <string name="jNSIXcT">ভেলানগর বাজার</string>
+    <string name="jNSIXcTh">৫৩.০</string>
+    <string name="jNSIXcF">-</string>
+    <string name="jNSIXcFi">-</string>
+    <string name="jNSEVcO">১৭</string>
+    <string name="jNSEVcT">আশুগঞ্জ রাইস মিল এর নিকটে</string>
+    <string name="jNSEVcTh">৯২.০</string>
+    <string name="jNSEVcF">-</string>
+    <string name="jNSEVcFi">-</string>
+    <string name="jNEIcO">১৮</string>
+    <string name="jNEIcT">বারইছা বাসস্ট্যান্ড</string>
+    <string name="jNEIcTh">৭৪.৭</string>
+    <string name="jNEIcF">-</string>
+    <string name="jNEIcFi">-</string>
+    <string name="jNNINcO">১৯</string>
+    <string name="jNNINcT">সড়াইল রোড সংযোগস্থল</string>
+    <string name="jNNINcTh">৯৩.৭</string>
+    <string name="jNNINcF">-</string>
+    <string name="jNNINcFi">-</string>
+    <string name="jNTWEcO">২০</string>
+    <string name="jNTWEcT">মরজাল বাজার</string>
+    <string name="jNTWEcTh">৭০.০</string>
+    <string name="jNTWEcF">-</string>
+    <string name="jNTWEcFi">-</string>
+    <string name="jNTOcO">২১</string>
+    <string name="jNTOcT">কালিয়াবাজার বাসস্ট্যান্ড</string>
+    <string name="jNTOcTh">১৯৭.৫</string>
+    <string name="jNTOcF">-</string>
+    <string name="jNTOcFi">-</string>
+    <string name="jNTTcO">২২</string>
+    <string name="jNTTcT">ইসলামাবাদ বাসস্ট্যান্ড</string>
+    <string name="jNTTcTh">৯৫.৯ </string>
+    <string name="jNTTcF">-</string>
+    <string name="jNTTcFi">-</string>
+    <string name="jNTTHcO">২৩</string>
+    <string name="jNTTHcT">কড়ারচর</string>
+    <string name="jNTTHcTh">৫৩.৭</string>
+    <string name="jNTTHcF">-</string>
+    <string name="jNTTHcFi">-</string>
+    <string name="jNTFOcO">২৪</string>
+    <string name="jNTFOcT">সৈয়দনগর</string>
+    <string name="jNTFOcTh">৫৭.০</string>
+    <string name="jNTFOcF">-</string>
+    <string name="jNTFOcFi">-</string>
+    <string name="jNTFIOcO">২৫</string>
+    <string name="jNTFIOcT">নয়াবাজার বাসস্ট্যান্ড</string>
+    <string name="jNTFIOcTh">১৭১.২</string>
+    <string name="jNTFIOcF">-</string>
+    <string name="jNTFIOcFi">-</string>
+    <string name="jNTSIOcO">২৬</string>
+    <string name="jNTSIOcT">বাহুবল সংযোগস্থল</string>
+    <string name="jNTSIOcTh">১৬৮.৬ </string>
+    <string name="jNTSIOcF">-</string>
+    <string name="jNTSIOcFi">-</string>
+    <string name="jNTSEVOcO">২৭</string>
+    <string name="jNTSEVOcT">ইটাখোলা</string>
+    <string name="jNTSEVOcTh">৫৬.৪</string>
+    <string name="jNTSEVOcF">-</string>
+    <string name="jNTSEVOcFi">-</string>
+    <string name="jNTEIOcO">২৮</string>
+    <string name="jNTEIOcT">পঞ্চদনা বাজার</string>
+    <string name="jNTEIOcTh">৪৫.৫</string>
+    <string name="jNTEIOcF">-</string>
+    <string name="jNTEIOcFi">-</string>
+    <string name="jNTNINOcO">২৯</string>
+    <string name="jNTNINOcT">শেখেরচর বাজার</string>
+    <string name="jNTNINOcTh">৪৩.৪</string>
+    <string name="jNTNINOcF">-</string>
+    <string name="jNTNINOcFi">-</string>
+    <string name="jNTHIOcO">৩০</string>
+    <string name="jNTHIOcT">কারিয়ালা বাসস্ট্যান্ড</string>
+    <string name="jNTHIOcTh">৮৭.৩</string>
+    <string name="jNTHIOcF">-</string>
+    <string name="jNTHIOcFi">-</string>
+    <string name="jNTHOOcO">৩১</string>
+    <string name="jNTHOcT">নরসিংদি সংযোগস্থল</string>
+    <string name="jNTHOcTh">৪৯.২</string>
+    <string name="jNTHOcF">-</string>
+    <string name="jNTHOcFi">-</string>
+    <string name="jNTHTOcO">৩২</string>
+    <string name="jNTHTOcT">রাইপুর/নিকুঠি বাসস্ট্যান্ড</string>
+    <string name="jNTHTOcTh">৮১.৪</string>
+    <string name="jNTHTOcF">-</string>
+    <string name="jNTHTOcFi">-</string>
+    <string name="jNTHTROcO">৩৩</string>
+    <string name="jNTHTROcT">মোকাম বাজার বাসস্ট্যান্ড</string>
+    <string name="jNTHTROcTh">২০৫.৯</string>
+    <string name="jNTHTROcF">-</string>
+    <string name="jNTHTROcFi">-</string>
+    <string name="jNTHFROcO">৩৪</string>
+    <string name="jNTHFROcT">গিয়াসনগর বাজার</string>
+    <string name="jNTHFROcTh">২০৩.৯</string>
+    <string name="jNTHFROcF">-</string>
+    <string name="jNTHFROcFi">-</string>
+    <string name="dNOcO">১</string>
+    <string name="dNOcT">শঙ্কা বাজার / বাস স্ট্যান্ড</string>
+    <string name="dNOcTh">১৯০.২</string>
+    <string name="dNOcF">১৯০.৭</string>
+    <string name="dNOcFi">০.৬</string>
+    <string name="dNTcO">২</string>
+    <string name="dNTcT">কমরপুর বাজার</string>
+    <string name="dNTcTh">২৬৬.৩</string>
+    <string name="dNTcF">২৬৬.৫</string>
+    <string name="dNTcFi">০.৩</string>
+    <string name="dNTHcO">৩</string>
+    <string name="dNTHcT">চান্দাইকণা বাজার</string>
+    <string name="dNTHcTh">১৮১.৩</string>
+    <string name="dNTHcF">১৮১.৫ </string>
+    <string name="dNTHcFi">০.৩</string>
+    <string name="dNFcO">৪</string>
+    <string name="dNFcT">মিঠাপুকুর সংযোগস্থল</string>
+    <string name="dNFcTh">৩০৫.৫ </string>
+    <string name="dNFcF">৩০৬.০</string>
+    <string name="dNFcFi">০.৬</string>
+    <string name="dNFIcO">৫</string>
+    <string name="dNFIcT">কামারপাকুর বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNFIcTh">৩৬৪.৬</string>
+    <string name="dNFIcF">৩৬৫.০</string>
+    <string name="dNFIcFi">০.৫</string>
+    <string name="dNScO">৬</string>
+    <string name="dNScT">কালিতলা বাস স্ট্যান্ড</string>
+    <string name="dNScTh">২৬৩.৭</string>
+    <string name="dNScF">২৬৪.০</string>
+    <string name="dNScFi">০.৪</string>
+    <string name="dNSEcO">৭</string>
+    <string name="dNSEcT">বোয়ালিয়া বাজার  </string>
+    <string name="dNSEcTh">১৫৯.৫</string>
+    <string name="dNSEcF">১৫৯.৭</string>
+    <string name="dNSEcFi">০.৩</string>
+    <string name="dNEcO">৮</string>
+    <string name="dNEcT">ফাঁসিতলা স্কুল/ বাস স্ট্যান্ড</string>
+    <string name="dNEcTh">২৪৯.০</string>
+    <string name="dNEcF">১৪৮.০</string>
+    <string name="dNEcFi">০.৬</string>
+    <string name="dNNcO">৯</string>
+    <string name="dNNcT">বড়দরগাহ বাস স্ট্যান্ড</string>
+    <string name="dNNcTh">২৯৮.০</string>
+    <string name="dNNcF">২৯৮.২</string>
+    <string name="dNNcFi">০.৩</string>
+    <string name="dNTEcO">১০</string>
+    <string name="dNTEcT">খোঁচাবাড়ি ছোট দেওরি বাস স্ট্যান্ড</string>
+    <string name="dNTEcTh">৪৩২.১</string>
+    <string name="dNTEcF">৪৩২.৩</string>
+    <string name="dNTEcFi">০.২</string>
+    <string name="dNELcO">১১</string>
+    <string name="dNELcT">সালান্দর চৌধুরী হাট</string>
+    <string name="dNELcTh">৪৪১.২</string>
+    <string name="dNELcF">৪৪১.৩</string>
+    <string name="dNELcFi">০.২</string>
+    <string name="dNTWcO">১২</string>
+    <string name="dNTWcT">গাড়াদোহা বাস স্ট্যান্ড</string>
+    <string name="dNTWcTh">১৪৩.৯</string>
+    <string name="dNTWcF">১৪৪.০</string>
+    <string name="dNTWcFi">০.২</string>
+    <string name="dNTHIcO">১৩</string>
+    <string name="dNTHIcT">লালদীঘি বাজার / বাস স্ট্যান্ড</string>
+    <string name="dNTHIcTh">২৯০.৮</string>
+    <string name="dNTHIcF">২৯১.৩</string>
+    <string name="dNTHIcFi">০.৬</string>
+    <string name="dNFOcO">১৪</string>
+    <string name="dNFOcT">ধর্মদেশ বাস স্ট্যান্ড</string>
+    <string name="dNFOcTh">৩২০.৮</string>
+    <string name="dNFOcF">৩২১.২</string>
+    <string name="dNFOcFi">০.৫</string>
+    <string name="dNFIFcO">১৫</string>
+    <string name="dNFIFcT">বাস টার্মিনাল</string>
+    <string name="dNFIFcTh">৩৬৫.৬</string>
+    <string name="dNFIFcF">৩৬৬.০</string>
+    <string name="dNFIFcFi">০.৫</string>
+    <string name="dNSIXcO">১৬</string>
+    <string name="dNSIXcT">নাসিরুন্নেছা স্কুল / সংযোগস্থল</string>
+    <string name="dNSIXcTh">১৯৮.০</string>
+    <string name="dNSIXcF">১৯৮.৩</string>
+    <string name="dNSIXcFi">০.৪</string>
+    <string name="dNSEVcO">১৭</string>
+    <string name="dNSEVcT">কাকলী বালুয়াহাট বাজার</string>
+    <string name="dNSEVcTh">২৫৯.৪</string>
+    <string name="dNSEVcF">২৫৯.৬</string>
+    <string name="dNSEVcFi">০.৩</string>
+    <string name="dNEIcO">১৮</string>
+    <string name="dNEIcT">কাটাখালী বাজার</string>
+    <string name="dNEIcTh">২৬০.১</string>
+    <string name="dNEIcF">২৬০.৩</string>
+    <string name="dNEIcFi">০.৩</string>
+    <string name="dNNINcO">১৯</string>
+    <string name="dNNINcT">তাঁরাগঞ্জ সংযোগস্থল</string>
+    <string name="dNNINcTh">৩৫৫.৪</string>
+    <string name="dNNINcF">৩৫৫.৬</string>
+    <string name="dNNINcFi">০.৩</string>
+    <string name="dNTWEcO">২০</string>
+    <string name="dNTWEcT">গোবিন্দগঞ্জ থানা সংযোগস্থল</string>
+    <string name="dNTWEcTh">২৫৪.৬</string>
+    <string name="dNTWEcF">২৫৪.৬</string>
+    <string name="dNTWEcFi">০.২</string>
+    <string name="dNTOcO">২১</string>
+    <string name="dNTOcT">নয় মাইল হাট / বাস স্ট্যান্ড</string>
+    <string name="dNTOcTh">২০৪.৯</string>
+    <string name="dNTOcF">২০৫.০</string>
+    <string name="dNTOcFi">০.২</string>
+    <string name="dNTTcO">২২</string>
+    <string name="dNTTcT">সাহেবগঞ্জ বাজার</string>
+    <string name="dNTTcTh">১৬৬.৯ </string>
+    <string name="dNTTcF">-</string>
+    <string name="dNTTcFi">-</string>
+    <string name="dNTTHcO">২৩</string>
+    <string name="dNTTHcT">গুড়কা বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNTTHcTh">১৭০.৯</string>
+    <string name="dNTTHcF">-</string>
+    <string name="dNTTHcFi">-</string>
+    <string name="dNTFOcO">২৪</string>
+    <string name="dNTFOcT">খোঁচাবাড়ি বাজার</string>
+    <string name="dNTFOcTh">৪৩০.৪</string>
+    <string name="dNTFOcF">-</string>
+    <string name="dNTFOcFi">-</string>
+    <string name="dNTFIOcO">২৫</string>
+    <string name="dNTFIOcT">গোবিন্দগঞ্জ বাজার</string>
+    <string name="dNTFIOcTh">২৫৪.১</string>
+    <string name="dNTFIOcF">-</string>
+    <string name="dNTFIOcFi">-</string>
+    <string name="dNTSIOcO">২৬</string>
+    <string name="dNTSIOcT">২৯ মাইল বাস স্ট্যান্ড</string>
+    <string name="dNTSIOcTh">৪২৭.৬ </string>
+    <string name="dNTSIOcF">-</string>
+    <string name="dNTSIOcFi">-</string>
+    <string name="dNTSEVOcO">২৭</string>
+    <string name="dNTSEVOcT">হাটিকুমরুল বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNTSEVOcTh">১৬৫.৭</string>
+    <string name="dNTSEVOcF">-</string>
+    <string name="dNTSEVOcFi">-</string>
+    <string name="dNTEIOcO">২৮</string>
+    <string name="dNTEIOcT">ভুঁইয়াঘাটি বাজার সংযোগস্থল</string>
+    <string name="dNTEIOcTh">১৭৪.৮</string>
+    <string name="dNTEIOcF">২১৩.৮</string>
+    <string name="dNTEIOcFi">০.৬</string>
+    <string name="dNTNINOcO">২৯</string>
+    <string name="dNTNINOcT">ঘোগা ব্রিজ/ বাস স্ট্যান্ড</string>
+    <string name="dNTNINOcTh">১৮৫.৮</string>
+    <string name="dNTNINOcF">-</string>
+    <string name="dNTNINOcFi">-</string>
+    <string name="dNTHIOcO">৩০</string>
+    <string name="dNTHIOcT">ধায়েরহাট বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNTHIOcTh">২৭৯.০</string>
+    <string name="dNTHIOcF">-</string>
+    <string name="dNTHIOcFi">-</string>
+    <string name="dNTHOOcO">৩১</string>
+    <string name="dNTHOcT">পিরগঞ্জ বাজার</string>
+    <string name="dNTHOcTh">২৮৭.৯</string>
+    <string name="dNTHOcF">-</string>
+    <string name="dNTHOcFi">-</string>
+    <string name="dNTHTOcO">৩২</string>
+    <string name="dNTHTOcT">ইকারচালী বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNTHTOcTh">৩৪৯.০</string>
+    <string name="dNTHTOcF">-</string>
+    <string name="dNTHTOcFi">-</string>
+    <string name="dNTHTROcO">৩৩</string>
+    <string name="dNTHTROcT">ষোল মাইল সংযোগস্থল/ বাস স্ট্যান্ড</string>
+    <string name="dNTHTROcTh">১৭৯.০</string>
+    <string name="dNTHTROcF">-</string>
+    <string name="dNTHTROcFi">-</string>
+    <string name="dNTHFROcO">৩৪</string>
+    <string name="dNTHFROcT">দমদমা বাজার/ বাস স্ট্যান্ড</string>
+    <string name="dNTHFROcTh">৩১৭.৫</string>
+    <string name="dNTHFROcF">-</string>
+    <string name="dNTHFROcFi">-</string>
+    <string name="dNTHFVOcO">৩৫</string>
+    <string name="dNTHFVOcT">ঠাকুরগাঁও সংযোগস্থল</string>
+    <string name="dNTHFVOcTh">৪৩৭.৩ </string>
+    <string name="dNTHFVOcF">-</string>
+    <string name="dNTHFVOcFi">-</string>
+    <string name="dNTHSIXOcO">৩৬</string>
+    <string name="dNTHSIXOcT">ধাক্কামারা মোড়, রুহিয়া সংযোগস্থল</string>
+    <string name="dNTHSIXOcTh">৪৭২.৭ </string>
+    <string name="dNTHSIXOcF">-</string>
+    <string name="dNTHSIXOcFi">-</string>
+    <string name="dNTHSENOcO">৩৭</string>
+    <string name="dNTHSENOcT">বাঘোপাড়া বাজার</string>
+    <string name="dNTHSENOcTh">২২৮.৯</string>
+    <string name="dNTHSENOcF">-</string>
+    <string name="dNTHSENOcFi">-</string>
+    <string name="waitForArea">লোড হচ্ছে  অপেক্ষা করুন ...</string>
+    <string name="ovijOg">অভিযোগ ও প্রাথমিক সাহায্য</string>
+    <string name="prathomik">প্রাথমিক সাহায্য</string>
+    <string name="brTaName">বি.আর.টি.এ.</string>
+    <string name="ovi_likhun">অভিযোগ লিখুন</string>
+    <string name="mailLikhun">ই-মেইল</string>
+    <string name="calokMalik">চালক  / মালিক</string>
+    <string name="rastarcinno">রাস্তার বিভিন্ন চিহ্ন ও ব্যবহার</string>
+    <string name="signalbati">রাস্তার সিগন্যাল বাতি ও ব্যবহার</string>
+    <string name="calok">চালকের দায়িত্ব ও কর্তব্য</string>
+    <string name="malik">মালিকের দায়িত্ব ও কর্তব্য</string>
+    <string name="jatri">যাত্রীদের করণীয়</string>
+    <string name="pothocari">পথচারী</string>
+    <string name="RastaParapar">নিরাপদে রাস্তা পারাপার </string>
+    <string name="jonogon">জনসাধারণের করণীয়</string>
+    <string name="ainVongo">আইন ভঙ্গের কারণ</string>
+    <string name="jorimana">জরিমানা</string>
+    <string name="Kagoj">প্রয়োজনীয় কাগজপত্র</string>
+    <string name="elaka">দুর্ঘটনা প্রবন এলাকা</string>
+    <string name="elakaSomuh">দুর্ঘটনা প্রবন এলাকা সমূহ</string>
+    <string name="jonoOpoth">জনসাধারণ ও পথচারী</string>
+    <string name="ainkanun">আইন কানুন</string>
+    <string name="Ovi">অভিযোগ</string>
+    <string name="GT"></string>
+    <string name="title_activity_location_warn">LocationWarn</string>
+    <string name="sotorko">সতর্ক সংকেত</string>
+    <string name="preLoc">বর্তমান অবস্থান : </string>
+    <string name="NblackSpot">কাছাকাছি দুর্ঘটনা প্রবন এলাকা :</string>
+    <string name="kachakachi">দুর্ঘটনা প্রবন এলাকা সতর্কতা</string>
+    <string name="Distan">দূরত্ব : </string>
+    <string name="title_activity_jatri">Jatri</string>
+    <string name="jatriTitle">যাত্রী</string>
+    <string name="title_activity_suggesion_box">SuggesionBox</string>
+    <string name="title_activity_speed_test">SpeedTest</string>
+    <string name="poramorsh">পরামর্শ / মতামত দিন</string>
+    <string name="SpeedText">গতি পরীক্ষা করুন</string>
+    <string name="title_activity_open">নিরাপদ সড়ক গড়ি</string>
+    <string name="title_activity_emergency_call">EmergencyCall</string>
+    <string name="favP1">প্রিয় জনের মোবাইল নম্বার দিন - ১</string>
+    <string name="favP2">প্রিয় জনের মোবাইল নম্বার দিন - ২</string>
+    <string name="favP3">প্রিয় জনের মোবাইল নম্বার দিন - ৩</string>
+    <string name="EmCall">জরুরি মোবাইল নম্বর</string>
+    <string name="MsaveSuccess">মোবাইল নম্বর সঠিক ভাবে সংরক্ষণ করা হয়েছে</string>
+    <string name="MsaveFail">মোবাইল নম্বর সঠিক ভাবে লিখুন</string>
+    
+    <string name="warning_mail">সকল তথ্য সম্পূর্ণ করুন</string>
+    <string name="title_activity_emer__call">অ্যাপ সম্পর্কে</string>
+    
+    <string name="AppFeature">অ্যাপ ফিচারঃ \n\n১.Sensor টেকনোলোজি ব্যবহার করে দুর্ঘটনায় দ্রুত সাহায্য নেয়া ।\n২.যেকোনো সম্ভাবনাময়ী বিপজ্জনক পরিস্থির জন্য দায়ী অবস্থার ছবি সহ অভিযোগ ।
+    \n৩.অটোম্যাটিক s.m.s / m.m.s অথবা E-Mail ব্যবহার ।\n৪.দুর্ঘটনা এড়ানোয় চালক মালিক দের জন্য নির্দেশনা ।\n৫.যানবাহনের গতি পরীক্ষা ও অভিযোগ।\n
+   ৬.জনসাধারণের জন্য বিভিন্ন দিক নির্দেশনা । \n৭.দুর্ঘটনা রোধে কর্তৃপক্ষের নিকট জনগনের জন্য সাজেশান বক্স ।\n৮.আবশ্যিক কাগজ-পত্র ও সাথে বিভিন্ন ট্রাফিক আইন ভংগের কারণ এবং জরিমানা ।\n৯.মানচিত্রে ও রুটে
+সারা দেশের দুর্ঘটনা প্রবন এলাকা সমূহ ।\n১০.SOS টেকনোলোজি, দুর্ঘটনা প্রবন এলাকা সমূহ হতে সাবধানতা অবলম্বনের জন্য ,সতর্কতা ও অটোমেটিক বার্তা চালু।\n১১. প্রতিদিন ট্রাফিক রুলস মেনে চলার জন্য বার্তা পাওয়া । \n\n   
+</string>
+<string name="Developer">অ্যাপ ডেভেলোপমেন্ট এ আমরা ছিলাম ...</string>
+<string name="Developer1">->এন.আই.মোঃ আসাফুদ্দৌলা ,সি.এস.ই, রুয়েট     </string>
+<string name="Developer2">->বায়জিদ ইসলাম ,সি.এস.ই, রুয়েট    </string>
+<string name="Developer3">->হাসিব মির্জা ,সি.এস.ই, রুয়েট    </string>
+<string name="Developer4">->মোঃ রেজাউল করিম জনি ,সি.এস.ই, রুয়েট    \n</string>
+
+</resources>

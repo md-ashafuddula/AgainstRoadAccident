@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/selected" android:oneshot="false">
+<item android:drawable="@drawable/signala" android:duration="400" />
+<item android:drawable="@drawable/signalb" android:duration="1000" />
+<item android:drawable="@drawable/signalc" android:duration="400" />
+<item android:drawable="@drawable/signald" android:duration="1000" />
+<item android:drawable="@drawable/signale" android:duration="400" />
+<item android:drawable="@drawable/signalf" android:duration="1000" />
+</animation-list>

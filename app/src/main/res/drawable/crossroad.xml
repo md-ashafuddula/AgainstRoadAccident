@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/bycrossingroad" android:oneshot="false">
+<item android:drawable="@drawable/crossinga" android:duration="700" />
+<item android:drawable="@drawable/crossingb" android:duration="700" />
+<item android:drawable="@drawable/crossingc" android:duration="700" />
+<item android:drawable="@drawable/crossingb" android:duration="700" />
+<item android:drawable="@drawable/crossingdl" android:duration="400" />
+<item android:drawable="@drawable/crossingdr" android:duration="400" />
+<item android:drawable="@drawable/crossinge" android:duration="400" />
+<item android:drawable="@drawable/crossingf" android:duration="400" />
+<item android:drawable="@drawable/crossingg" android:duration="400" />
+<item android:drawable="@drawable/crossingh" android:duration="400" />
+<item android:drawable="@drawable/crossingi" android:duration="400" />
+<item android:drawable="@drawable/crossingj" android:duration="400" />
+<item android:drawable="@drawable/crossingk" android:duration="400" />
+<item android:drawable="@drawable/crossingl" android:duration="400" />
+<item android:drawable="@drawable/crossingm" android:duration="400" />
+
+</animation-list>

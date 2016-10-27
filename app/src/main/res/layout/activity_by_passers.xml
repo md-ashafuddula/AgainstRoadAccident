@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#578657"
+    tools:context=".ByPassers" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:weightSum="100">
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+
+            <Button
+                android:id="@+id/CareByPass"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/footpatha"
+				android:layout_marginRight="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/AnimCrossRoad"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+ 				android:layout_marginTop="0dp"
+ 				android:layout_marginLeft="1dp"
+                android:background="@drawable/crossbypassa"       
+                
+                android:layout_weight="50" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"    
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+            
+        <Button
+                android:id="@+id/Peopole"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+				android:layout_marginTop="1dp"
+				android:background="@drawable/peopolea"
+				android:layout_marginRight="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/SugBox"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+ 				android:layout_marginTop="1dp"
+ 				android:layout_marginLeft="1dp"
+                android:background="@drawable/sugboxa"       
+                
+                android:layout_weight="50" />
+            
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:orientation="horizontal" 
+        android:layout_weight="34"
+        android:weightSum="100">
+            
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

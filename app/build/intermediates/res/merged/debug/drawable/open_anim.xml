@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"  android:id="@+id/mainsplash" >
+<item android:drawable="@drawable/spa" android:duration="100" />
+<item android:drawable="@drawable/spb" android:duration="100" />
+<item android:drawable="@drawable/spc" android:duration="100" />
+<item android:drawable="@drawable/spd" android:duration="100" />
+<item android:drawable="@drawable/spe" android:duration="100" />
+<item android:drawable="@drawable/spf" android:duration="100" />
+
+</animation-list>

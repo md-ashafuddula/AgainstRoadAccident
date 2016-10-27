@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E6FA"
+    tools:context=".ShowPage" >
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            android:weightSum="100"
+            >
+			<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            android:layout_weight="10"
+            >
+         <ScrollView
+        android:id="@+id/TextPagescroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            >
+
+             <TextView
+                 android:id="@+id/page"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+        </LinearLayout>
+         
+        </ScrollView>
+
+            
+        </LinearLayout>
+        
+			<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="100" 
+            android:layout_weight="90"
+            android:layout_marginBottom="2dp"
+            >
+
+				<Button
+				    android:id="@+id/back"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    android:layout_weight="27"
+				    android:layout_marginLeft="1dp"
+				    android:layout_marginRight="4dp"
+				    android:background="@drawable/back" />
+				<TextView
+				    android:id="@+id/PageNo"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    android:layout_weight="23"
+				    android:layout_marginTop="11dp"
+				    android:textAppearance="?android:attr/textAppearanceMedium"
+				    android:gravity="right"				    			    
+				     />
+				<TextView
+				    android:id="@+id/MaxPageNo"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    android:layout_weight="23"
+				    android:textAppearance="?android:attr/textAppearanceMedium"
+				    android:gravity="left"
+				    android:layout_marginTop="11dp"				    			    			    
+				     />
+				
+				<Button
+				    android:id="@+id/go"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    android:layout_weight="27"
+				    android:layout_marginLeft="4dp"
+				    android:layout_marginRight="1dp"
+				    android:background="@drawable/go" />
+				
+            
+        </LinearLayout>
+            
+            
+        </LinearLayout>
+
+</RelativeLayout>

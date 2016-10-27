@@ -1,0 +1,109 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#578657"
+    tools:context=".EmergencyCall" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:weightSum="100">
+        
+       
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:layout_weight="34"
+        android:weightSum="100">
+        <ImageView
+                android:id="@+id/EmerAnim"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="right"
+                android:layout_marginRight="20dp"
+                 
+                 />
+
+             <EditText
+                android:id="@+id/Pname0"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/etbg"
+                android:ems="10" 
+                android:hint="@string/favP1"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingLeft="10dp"
+                android:inputType="phone"
+                >
+         
+            </EditText>
+        <EditText
+                android:id="@+id/Pname1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/etbg"
+                android:ems="10" 
+                android:hint="@string/favP2"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingLeft="10dp"
+                android:inputType="phone"
+                >
+         
+            </EditText>
+            <EditText
+                android:id="@+id/Pname2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/etbg"
+                android:ems="10" 
+                android:hint="@string/favP3"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingLeft="10dp"
+                android:inputType="phone"
+                >
+         
+            </EditText>
+
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:orientation="horizontal" 
+        android:layout_weight="66"
+        android:weightSum="100">
+                <Button
+                android:id="@+id/save"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/savea"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/msg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/offlinea"
+                android:layout_weight="50" />
+            
+            
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

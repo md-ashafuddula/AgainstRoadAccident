@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#578657"
+    tools:context=".MainPage" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:weightSum="100">
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+
+            <Button
+                android:id="@+id/CauseBreakLaw"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/causeofbreakinglawa"
+				android:layout_marginRight="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/fineTK"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+ 				android:layout_marginTop="0dp"
+ 				android:layout_marginLeft="1dp"
+                android:background="@drawable/finea"       
+                
+                android:layout_weight="50" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"    
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+            <Button
+                android:id="@+id/papersNeed"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/papersa"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/gap"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/gap"
+                android:layout_weight="50" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:orientation="horizontal" 
+        android:layout_weight="34"
+        android:weightSum="100">
+            
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

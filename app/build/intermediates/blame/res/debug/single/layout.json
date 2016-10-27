@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emer__call.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_emer__call.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_by_passers.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_by_passers.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mail_action.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_mail_action.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mmssend.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_mmssend.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suggesion_box.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_suggesion_box.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emergency_complain.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_emergency_complain.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_road_sign.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_road_sign.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emergency_call.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_emergency_call.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_page.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\open_lay.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\open_lay.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_page.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_show_page.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complain_box.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_complain_box.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_warn.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_location_warn.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_danger_place.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_danger_place.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_light_signal.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_anim_light_signal.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_open.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speed_test.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_speed_test.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_owner.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_driver_owner.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_danger_place_by_area.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_danger_place_by_area.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passers_crossing_road.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_passers_crossing_road.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_law.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_law.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brta.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_brta.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_show.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_map_show.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jatri.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\activity_jatri.xml"
+    },
+    {
+        "merged": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner.xml",
+        "source": "N:\\ALL_Projects\\6th_sem_Project\\6th_sem_project\\Project_Code\\AgainstRoadAccident\\app\\src\\main\\res\\layout\\custom_spinner.xml"
+    }
+]

@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E6FA"
+    tools:context=".AnimLightSignal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:weightSum="100">
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        android:gravity="center"
+        android:layout_weight="50">
+
+            <ImageView
+                android:id="@+id/AnimLightSignal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                 />
+        
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" 
+        android:layout_weight="50">
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_marginTop="40dp"
+        >
+        
+        <ImageView
+                android:id="@+id/SignalRed"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp" 
+                android:src="@drawable/red" />
+        
+        <TextView
+            android:id="@+id/redText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           
+            android:layout_marginTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+        
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_marginTop="10dp"
+        >
+        
+            <ImageView
+                android:id="@+id/SignalYellow"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp" 
+                android:src="@drawable/yellow" />
+        
+        <TextView
+            android:id="@+id/yellowText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+        
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_marginTop="10dp"
+        >
+        <ImageView
+                android:id="@+id/SignalGreen"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp" 
+                android:src="@drawable/green" />
+        
+        <TextView
+            android:id="@+id/greenText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+    </LinearLayout>
+        
+    </LinearLayout>
+
+        
+        
+    </LinearLayout>
+
+</RelativeLayout>

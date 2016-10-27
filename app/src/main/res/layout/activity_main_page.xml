@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#578657"
+    tools:context=".MainPage" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+        android:orientation="vertical" 
+        android:weightSum="100">
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"               
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+
+            <Button
+                android:id="@+id/Emergeny"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+				
+				android:background="@drawable/emergencypica"
+				android:layout_marginRight="1dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/driverOwner"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+ 				android:layout_marginTop="0dp"
+ 				android:layout_marginLeft="1dp"
+                android:background="@drawable/driverownera"       
+                
+                android:layout_weight="50" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"               
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+            <Button
+                android:id="@+id/Passenger"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/passengera"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/publicN"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/publica"
+                android:layout_weight="50" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"             
+        android:orientation="horizontal" 
+        android:layout_weight="34"
+        android:weightSum="100">
+            <Button
+                android:id="@+id/laws"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                
+                android:background="@drawable/lawa"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/DangerousPlace"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=""
+                android:background="@drawable/dangera"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="1dp"
+                
+                android:layout_weight="50" />
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+

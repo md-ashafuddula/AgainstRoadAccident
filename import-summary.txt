@@ -1,0 +1,156 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* a.PNG => a.png
+* aa.PNG => aa.png
+* aaa.PNG => aaa.png
+* aaaa.PNG => aaaa.png
+* aaaaa.PNG => aaaaa.png
+* b.PNG => b.png
+* bb.PNG => bb.png
+* bbb.PNG => bbb.png
+* bbbb.PNG => bbbb.png
+* bbbbb.PNG => bbbbb.png
+* c.PNG => c.png
+* cc.PNG => cc.png
+* ccc.PNG => ccc.png
+* cccc.PNG => cccc.png
+* d.PNG => d.png
+* dd.PNG => dd.png
+* ddd.PNG => ddd.png
+* dddd.PNG => dddd.png
+* e.PNG => e.png
+* ee.PNG => ee.png
+* eee.PNG => eee.png
+* eeee.PNG => eeee.png
+* f.PNG => f.png
+* ff.PNG => ff.png
+* fff.PNG => fff.png
+* ffff.PNG => ffff.png
+* g.PNG => g.png
+* gg.PNG => gg.png
+* ggg.PNG => ggg.png
+* gggg.PNG => gggg.png
+* hh.PNG => hh.png
+* hhh.PNG => hhh.png
+* hhhh.PNG => hhhh.png
+* i.PNG => i.png
+* ii.PNG => ii.png
+* iii.PNG => iii.png
+* iiii.PNG => iiii.png
+* j.PNG => j.png
+* jj.PNG => jj.png
+* jjj.PNG => jjj.png
+* jjjj.PNG => jjjj.png
+* k.PNG => k.png
+* kk.PNG => kk.png
+* kkk.PNG => kkk.png
+* kkkk.PNG => kkkk.png
+* l.PNG => l.png
+* ll.PNG => ll.png
+* lll.PNG => lll.png
+* llll.PNG => llll.png
+* m.PNG => m.png
+* mm.PNG => mm.png
+* mmm.PNG => mmm.png
+* mmmm.PNG => mmmm.png
+* n.PNG => n.png
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\activation.jar => app\libs\activation.jar
+* libs\additionnal.jar => app\libs\additionnal.jar
+* libs\mail.jar => app\libs\mail.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* nn.PNG => nn.png
+* nnn.PNG => nnn.png
+* nnnn.PNG => nnnn.png
+* o.PNG => o.png
+* oo.PNG => oo.png
+* ooo.PNG => ooo.png
+* oooo.PNG => oooo.png
+* p.PNG => p.png
+* pp.PNG => pp.png
+* ppp.PNG => ppp.png
+* pppp.PNG => pppp.png
+* q.PNG => q.png
+* qq.PNG => qq.png
+* qqq.PNG => qqq.png
+* qqqq.PNG => qqqq.png
+* r.PNG => r.png
+* rr.PNG => rr.png
+* rrr.PNG => rrr.png
+* rrrr.PNG => rrrr.png
+* s.PNG => s.png
+* ss.PNG => ss.png
+* sss.PNG => sss.png
+* ssss.PNG => ssss.png
+* t.PNG => t.png
+* tt.PNG => tt.png
+* ttt.PNG => ttt.png
+* tttt.PNG => tttt.png
+* u.PNG => u.png
+* uu.PNG => uu.png
+* uuu.PNG => uuu.png
+* uuuu.PNG => uuuu.png
+* v.PNG => v.png
+* vv.PNG => vv.png
+* vvv.PNG => vvv.png
+* vvvv.PNG => vvvv.png
+* w.PNG => w.png
+* ww.PNG => ww.png
+* www.PNG => www.png
+* wwww.PNG => wwww.png
+* x.PNG => x.png
+* xx.PNG => xx.png
+* xxx.PNG => xxx.png
+* xxxx.PNG => xxxx.png
+* y.PNG => y.png
+* yy.PNG => yy.png
+* yyy.PNG => yyy.png
+* yyyy.PNG => yyyy.png
+* z.PNG => z.png
+* zz.PNG => zz.png
+* zzz.PNG => zzz.png
+* zzzz.PNG => zzzz.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

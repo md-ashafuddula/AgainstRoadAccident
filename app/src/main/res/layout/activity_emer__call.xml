@@ -1,0 +1,121 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#578657"
+    tools:context=".Emer_Call" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/textViewFeature"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                
+                android:textColor="#E6E6FA"
+                android:layout_marginBottom="30dp"
+                android:text="@string/AppFeature"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                 />
+ <TextView
+                android:id="@+id/textViewdev"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Developer"
+                android:textColor="#E6E6FA"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_marginBottom="20dp"
+                 />
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+          
+            <TextView
+                android:id="@+id/textViewdev1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Developer1"
+                android:textColor="#FFF5EE"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_marginBottom="20dp"
+                 />
+            
+            
+            
+        </LinearLayout>
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+           
+            <TextView
+                android:id="@+id/textViewdev2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Developer2"
+                android:textColor="#FFF5EE"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_marginBottom="20dp"
+                 />
+            
+            
+            
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+           
+            <TextView
+                android:id="@+id/textViewdev3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Developer3"
+                android:textColor="#FFF5EE"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_marginBottom="20dp"
+                 />
+            
+            
+            
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            
+            <TextView
+                android:id="@+id/textViewdev4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" "
+                android:textColor="#FFF5EE"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_marginBottom="20dp"
+                 />
+            
+            
+            
+        </LinearLayout>
+            
+            
+        </LinearLayout>
+    </ScrollView>
+     
+</RelativeLayout>

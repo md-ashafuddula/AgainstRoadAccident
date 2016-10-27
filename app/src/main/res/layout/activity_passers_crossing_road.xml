@@ -1,0 +1,128 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#578657"
+    tools:context=".PassersCrossingRoad" >
+
+    <ScrollView
+        android:id="@+id/PassersPassingRoad"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/anim1image"
+                android:layout_width="270dp"
+                android:layout_height="174dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                 />
+
+            <TextView
+                android:id="@+id/anim1Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="#E6E6FA"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                 />
+
+            <Button
+                android:id="@+id/anim1button"
+                android:layout_width="150dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/paraparb" 
+                android:layout_marginBottom="7dp"
+                />
+            
+            <ImageView
+                android:id="@+id/anim2image"
+                android:layout_width="270dp"
+                android:layout_height="174dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                 />
+
+            <TextView
+                android:id="@+id/anim2Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="#E6E6FA"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                 />
+
+            <Button
+                android:id="@+id/anim2button"
+                android:layout_width="150dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/paraparc" 
+                android:layout_marginBottom="7dp"
+                />
+
+            <ImageView
+                android:id="@+id/anim3image"
+               android:layout_width="270dp"
+                android:layout_height="174dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                 />
+
+            <TextView
+                android:id="@+id/anim3Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="#E6E6FA"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                 />
+
+            <Button
+                android:id="@+id/anim3button"
+                android:layout_width="150dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/parapara" 
+                android:layout_marginBottom="7dp"
+                />
+            <ImageView
+                android:id="@+id/anim4image"
+                android:layout_width="270dp"
+                android:layout_height="174dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                 />
+
+            <TextView
+                android:id="@+id/anim4Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="#E6E6FA"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                 />
+
+            <Button
+                android:id="@+id/anim4button"
+                android:layout_width="150dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/parapard" 
+                android:layout_marginBottom="7dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

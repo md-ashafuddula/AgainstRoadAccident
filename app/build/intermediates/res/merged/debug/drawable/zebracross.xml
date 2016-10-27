@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/selected" android:oneshot="false">
+<item android:drawable="@drawable/zebraa" android:duration="200" />
+<item android:drawable="@drawable/zebrab" android:duration="200" />
+<item android:drawable="@drawable/zebrac" android:duration="200" />
+<item android:drawable="@drawable/zebrad" android:duration="200" />
+<item android:drawable="@drawable/zebrae" android:duration="200" />
+<item android:drawable="@drawable/zebraf" android:duration="200" />
+<item android:drawable="@drawable/zebrag" android:duration="200" />
+<item android:drawable="@drawable/zebrah" android:duration="200" />
+<item android:drawable="@drawable/zebrai" android:duration="200" />
+</animation-list>

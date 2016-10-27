@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andro_curiosity.againstroadaccident"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.Open"
+            android:label="@string/title_activity_open"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.MainPage"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINPAGE" />
+
+                <category android:name="android.intent.category.Default" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.Law"
+            android:label="@string/title_activity_law"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.ShowPage"
+            android:label="@string/title_activity_show_page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.ByPassers"
+            android:label="@string/title_activity_by_passers"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.DriverOwner"
+            android:label="@string/title_activity_driver_owner"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.AnimLightSignal"
+            android:label="@string/title_activity_anim_light_signal"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.EmergencyComplain"
+            android:label="@string/title_activity_emergency_complain"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.PassersCrossingRoad"
+            android:label="@string/title_activity_passers_crossing_road"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.ComplainBox"
+            android:label="@string/title_activity_complain_box"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.BRTA"
+            android:label="@string/title_activity_brt"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.RoadSign"
+            android:label="@string/title_activity_road_sign"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.MMSsend"
+            android:label="@string/title_activity_mmssend"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.MailAction"
+            android:label="@string/title_activity_mail_action"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <receiver android:name="com.andro_curiosity.againstroadaccident.MyBroadCastReceive" >
+        </receiver>
+
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.DangerPlace"
+            android:label="@string/title_activity_danger_place"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.MapShow"
+            android:label="@string/title_activity_map_show"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.DangerPlaceByArea"
+            android:label="@string/title_activity_danger_place_by_area"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.LocationWarn"
+            android:label="@string/title_activity_location_warn"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.Jatri"
+            android:label="@string/title_activity_jatri"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.SuggesionBox"
+            android:label="@string/title_activity_suggesion_box"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.SpeedTest"
+            android:label="@string/title_activity_speed_test"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.EmergencyCall"
+            android:label="@string/title_activity_emergency_call"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.andro_curiosity.againstroadaccident.Emer_Call"
+            android:label="@string/title_activity_emer__call" 
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
